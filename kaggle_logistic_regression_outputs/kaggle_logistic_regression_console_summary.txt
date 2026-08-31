@@ -1,0 +1,105 @@
+Multinomial Logistic Regression Results Across Representations
+
+Multinomial Logistic Regression Results
+---------------------------------------
+Representation: raw_xy
+Number of observations: 1839
+Number of predictors: 42
+Number of classes: 36
+Best hyperparameters: {'logistic_regression__C': 100}
+Best cross-validation accuracy: 93.54%
+Training accuracy: 98.98%
+Test accuracy: 92.39%
+Outputs saved in: ../kaggle_logistic_regression_outputs\raw_xy
+
+
+Multinomial Logistic Regression Results
+---------------------------------------
+Representation: raw_xyz
+Number of observations: 1839
+Number of predictors: 63
+Number of classes: 36
+Best hyperparameters: {'logistic_regression__C': 10}
+Best cross-validation accuracy: 93.34%
+Training accuracy: 98.71%
+Test accuracy: 92.12%
+Outputs saved in: ../kaggle_logistic_regression_outputs\raw_xyz
+
+
+Multinomial Logistic Regression Results
+---------------------------------------
+Representation: translated_xy
+Number of observations: 1839
+Number of predictors: 42
+Number of classes: 36
+Best hyperparameters: {'logistic_regression__C': 100}
+Best cross-validation accuracy: 93.20%
+Training accuracy: 99.18%
+Test accuracy: 92.93%
+Outputs saved in: ../kaggle_logistic_regression_outputs\translated_xy
+
+
+Multinomial Logistic Regression Results
+---------------------------------------
+Representation: scaled_xy
+Number of observations: 1839
+Number of predictors: 42
+Number of classes: 36
+Best hyperparameters: {'logistic_regression__C': 1}
+Best cross-validation accuracy: 91.91%
+Training accuracy: 95.79%
+Test accuracy: 91.03%
+Outputs saved in: ../kaggle_logistic_regression_outputs\scaled_xy
+
+
+Multinomial Logistic Regression Results
+---------------------------------------
+Representation: distances_xy
+Number of observations: 1839
+Number of predictors: 210
+Number of classes: 36
+Best hyperparameters: {'logistic_regression__C': 10}
+Best cross-validation accuracy: 93.06%
+Training accuracy: 99.80%
+Test accuracy: 94.29%
+Outputs saved in: ../kaggle_logistic_regression_outputs\distances_xy
+
+
+Multinomial Logistic Regression Results
+---------------------------------------
+Representation: normalized_distances_xy
+Number of observations: 1839
+Number of predictors: 210
+Number of classes: 36
+Best hyperparameters: {'logistic_regression__C': 100}
+Best cross-validation accuracy: 92.52%
+Training accuracy: 100.00%
+Test accuracy: 95.11%
+Outputs saved in: ../kaggle_logistic_regression_outputs\normalized_distances_xy
+
+
+Multinomial Logistic Regression Results
+---------------------------------------
+Representation: angles_xy
+Number of observations: 1839
+Number of predictors: 15
+Number of classes: 36
+Best hyperparameters: {'logistic_regression__C': 10}
+Best cross-validation accuracy: 85.11%
+Training accuracy: 91.30%
+Test accuracy: 86.14%
+Outputs saved in: ../kaggle_logistic_regression_outputs\angles_xy
+
+
+Multinomial Logistic Regression Results
+---------------------------------------
+Representation: hybrid
+Number of observations: 1839
+Number of predictors: 267
+Number of classes: 36
+Best hyperparameters: {'logistic_regression__C': 10}
+Best cross-validation accuracy: 93.13%
+Training accuracy: 99.86%
+Test accuracy: 95.11%
+Outputs saved in: ../kaggle_logistic_regression_outputs\hybrid
+

@@ -1,0 +1,401 @@
+dataset,classifier,ablation_variant,repeat,fold,split_id,accuracy,dimension,inner_cv_accuracy,best_params
+HaGRID,Multinomial logistic,Hybrid,0,0,0,88.19875776397515,267,87.1845526094653,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,0,0,0,88.19875776397515,267,87.5342934132224,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 2, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,0,0,0,86.95652173913044,225,86.05848943450806,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,0,0,0,87.26708074534162,225,85.63163650474476,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,0,0,0,83.69565217391305,57,83.7672416834233,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,0,0,0,86.33540372670807,57,85.67030563538131,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,0,0,0,88.81987577639751,252,87.26229791421875,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,0,0,0,87.5776397515528,252,87.45650288141556,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,0,1,1,88.04347826086956,267,87.18423602009166,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,0,1,1,88.19875776397515,267,87.53361500742174,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,0,1,1,86.33540372670807,225,85.94148704742418,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,0,1,1,85.86956521739131,225,85.08696710093685,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,0,1,1,84.62732919254658,57,83.68931547045634,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,0,1,1,86.33540372670807,57,85.70879385780434,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,0,1,1,88.35403726708074,252,87.22317651304846,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,0,1,1,87.5776397515528,252,87.10658116944496,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,0,2,2,87.11180124223603,267,87.650300805132,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,0,2,2,86.95652173913044,267,87.61149599333534,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,0,2,2,86.18012422360249,225,85.98051799448773,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,0,2,2,85.40372670807453,225,85.74728208022736,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,0,2,2,84.3167701863354,57,83.4567579619966,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,0,2,2,84.93788819875776,57,85.51449843650076,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,0,2,2,87.26708074534162,252,87.650300805132,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,0,2,2,86.64596273291926,252,87.41724579908515,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,0,3,3,88.66459627329193,267,87.06818340112868,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,0,3,3,88.50931677018633,267,87.26234314127214,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,0,3,3,86.49068322981367,225,85.3593244163675,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,0,3,3,86.49068322981367,225,85.35914350815398,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,0,3,3,85.86956521739131,57,83.61197720918327,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,0,3,3,87.5776397515528,57,85.51472457176764,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,0,3,3,88.66459627329193,252,87.18464306357205,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,0,3,3,88.19875776397515,252,86.99043809637524,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,0,4,4,87.24727838258165,267,88.00474522244022,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,0,4,4,87.24727838258165,267,87.7326592693298,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,0,4,4,85.38102643856921,225,86.52934828720626,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,0,4,4,84.29237947122861,225,85.55868526764918,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,0,4,4,83.04821150855366,57,84.74387467402602,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,0,4,4,85.22550544323484,57,85.94745701846982,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,0,4,4,86.78071539657853,252,87.65514009984324,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,0,4,4,86.15863141524106,252,87.30558020429964,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,1,0,5,89.44099378881988,267,87.33936481317156,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,1,0,5,88.19875776397515,267,87.92184403360189,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,1,0,5,87.4223602484472,225,85.98042754038099,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,1,0,5,85.71428571428571,225,85.7474177613875,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,1,0,5,84.16149068322981,57,83.37792720796213,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,1,0,5,86.33540372670807,57,85.59170101661371,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,1,0,5,89.59627329192547,252,87.06745976827467,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,1,0,5,87.5776397515528,252,87.41706489087164,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 2, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,1,1,6,88.19875776397515,267,87.26184564368499,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,1,1,6,88.9751552795031,267,87.02847404826451,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,1,1,6,87.11180124223603,225,85.74723685317399,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,1,1,6,86.64596273291926,225,85.43625563416018,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,1,1,6,84.3167701863354,57,83.88288725890588,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,1,1,6,86.18012422360249,57,85.70856772253745,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,1,1,6,87.88819875776397,252,87.37835053318173,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,1,1,6,88.9751552795031,252,86.98985014468134,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,1,2,7,87.26708074534162,267,87.33981708370533,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,1,2,7,86.80124223602485,267,87.92229630413566,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,1,2,7,84.78260869565217,225,86.25228735822449,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,1,2,7,85.40372670807453,225,85.6310033259975,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,1,2,7,83.22981366459628,57,84.03914672832018,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,1,2,7,84.62732919254658,57,85.74782480486788,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,1,2,7,86.80124223602485,252,87.06791203880843,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,1,2,7,85.40372670807453,252,87.65057216745227,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,1,3,8,86.95652173913044,267,87.45627674614869,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,1,3,8,86.49068322981367,267,87.88362717349912,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,1,3,8,86.18012422360249,225,85.94216545322482,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,1,3,8,84.93788819875776,225,85.78640348139767,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,1,3,8,84.3167701863354,57,83.57290103506635,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,1,3,8,86.64596273291926,57,85.66998904600767,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,1,3,8,86.95652173913044,252,87.53397682384877,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,1,3,8,85.86956521739131,252,87.61158644744211,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,1,4,9,88.18040435458786,267,87.42208509379638,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,1,4,9,87.09175738724728,267,87.422039866743,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,1,4,9,86.78071539657853,225,86.21863843051271,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,1,4,9,85.69206842923795,225,85.83040940433257,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,1,4,9,85.8475894245723,57,82.95785833620526,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,1,4,9,87.09175738724728,57,85.55873049470256,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,1,4,9,88.4914463452566,252,87.53849952918637,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,1,4,9,87.24727838258165,252,87.46088990559304,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,2,0,10,87.26708074534162,267,87.34058594361272,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,2,0,10,87.26708074534162,267,87.45641242730882,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,2,0,10,84.78260869565217,225,85.94230113438496,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,2,0,10,84.62732919254658,225,85.98092503796812,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,2,0,10,84.3167701863354,57,83.0293623075928,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,2,0,10,86.0248447204969,57,85.47578407881086,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,2,0,10,87.26708074534162,252,87.06868089871583,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,2,0,10,86.64596273291926,252,87.33995276486546,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,2,1,11,88.9751552795031,267,87.18432647419841,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,2,1,11,88.81987577639751,267,87.3784409872885,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,2,1,11,88.35403726708074,225,85.74746298844089,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,2,1,11,86.49068322981367,225,85.43661745058718,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,2,1,11,84.62732919254658,57,83.30135780659646,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,2,1,11,87.4223602484472,57,85.32042915046407,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,2,1,11,88.66459627329193,252,87.26189087073837,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,2,1,11,88.04347826086956,252,87.10649071533821,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,2,2,12,89.13043478260869,267,87.22290515072821,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,2,2,12,88.19875776397515,267,87.3780339438081,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,2,2,12,86.64596273291926,225,85.9802014051141,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,2,2,12,86.64596273291926,225,85.31988642582357,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,2,2,12,85.24844720496894,57,83.999799191883,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,2,2,12,86.18012422360249,57,85.70852249548408,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,2,2,12,89.13043478260869,252,87.33941004022495,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,2,2,12,88.35403726708074,252,87.33936481317156,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,2,3,13,87.5776397515528,267,87.30146454244242,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,2,3,13,86.95652173913044,267,87.41765284256554,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,2,3,13,86.80124223602485,225,85.74791525897463,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,2,3,13,85.55900621118012,225,84.97132152545424,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,2,3,13,84.16149068322981,57,83.53459372085682,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,2,3,13,85.09316770186336,57,85.7088390848577,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,2,3,13,87.73291925465838,252,87.37893848487562,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,2,3,13,87.73291925465838,252,87.26247882243227,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,2,4,14,86.00311041990669,267,87.77214248692712,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,2,4,14,87.09175738724728,267,87.6557732785905,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,2,4,14,85.38102643856921,225,86.25843823748363,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,2,4,14,84.44790046656298,225,85.98653319258673,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,2,4,14,84.29237947122861,57,84.35618837248639,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,2,4,14,85.38102643856921,57,85.36547529562662,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,2,4,14,86.15863141524106,252,87.53931361614714,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,2,4,14,87.09175738724728,252,87.57820888205057,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,3,0,15,87.26708074534162,267,87.84423441000855,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,3,0,15,87.4223602484472,267,87.92193448770864,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,3,0,15,87.11180124223603,225,86.13582769578113,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,3,0,15,86.64596273291926,225,85.90254655446739,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,3,0,15,83.22981366459628,57,84.5044878805065,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,3,0,15,85.09316770186336,57,86.05799193692091,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,3,0,15,86.95652173913044,252,87.53356978036838,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,3,0,15,87.4223602484472,252,87.5337506885819,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 2, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,3,1,16,86.95652173913044,267,86.91264756456839,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,3,1,16,86.95652173913044,267,87.76698660284225,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,3,1,16,85.40372670807453,225,85.59219851420085,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,3,1,16,85.24844720496894,225,85.59219851420083,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,3,1,16,82.7639751552795,57,84.23321601435688,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,3,1,16,85.71428571428571,57,85.47610066818449,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,3,1,16,86.0248447204969,252,86.79618790212503,{'model__C': 1}
+HaGRID,Random forest,Hybrid - angle,3,1,16,86.80124223602485,252,87.49508155794535,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,3,2,17,87.73291925465838,267,87.45623151909531,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,3,2,17,87.88819875776397,267,87.33981708370533,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,3,2,17,86.49068322981367,225,85.47555794354396,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,3,2,17,87.26708074534162,225,85.55380074588457,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,3,2,17,86.0248447204969,57,83.61179630096976,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,3,2,17,86.33540372670807,57,85.78626780023754,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,3,2,17,88.19875776397515,252,87.41729102613853,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,3,2,17,87.5776397515528,252,87.30110272601542,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,3,3,18,90.37267080745342,267,87.2623883683255,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,3,3,18,89.28571428571429,267,86.91264756456839,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,3,3,18,88.9751552795031,225,85.35941487047425,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,3,3,18,86.49068322981367,225,85.00985497493065,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,3,3,18,85.71428571428571,57,82.87436919567304,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,3,3,18,86.64596273291926,57,85.04838842440705,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,3,3,18,90.06211180124224,252,87.10694298587197,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,3,3,18,88.66459627329193,252,86.56331380429168,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,3,4,19,87.86936236391914,267,87.73311153986359,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,3,4,19,88.18040435458786,267,87.38341596315985,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,3,4,19,86.62519440124416,225,86.56887673185695,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,3,4,19,85.38102643856921,225,85.44267787573959,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,3,4,19,85.22550544323484,57,83.77330210857569,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,3,4,19,86.31415241057543,57,84.93753691658232,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,3,4,19,87.40279937791601,252,87.53917793498701,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,3,4,19,88.02488335925351,252,87.18925622301641,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,4,0,20,87.88819875776397,267,86.87443070446564,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,4,0,20,88.35403726708074,267,87.65070784861238,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 2, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,4,0,20,86.33540372670807,225,86.09724901925135,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,4,0,20,86.0248447204969,225,85.28176001982753,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,4,0,20,85.09316770186336,57,83.06843848170973,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,4,0,20,86.49068322981367,57,85.16588830907807,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,4,0,20,87.88819875776397,252,86.95199510100556,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,4,0,20,87.5776397515528,252,87.30110272601542,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,4,1,21,88.35403726708074,267,87.41774329667228,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,4,1,21,88.04347826086956,267,87.26216223305863,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,4,1,21,86.95652173913044,225,85.70906522012459,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,4,1,21,86.18012422360249,225,85.32065528573095,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,4,1,21,84.00621118012423,57,83.57294626211971,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,4,1,21,86.18012422360249,57,85.74773435076112,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,4,1,21,87.88819875776397,252,86.9130093809954,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,4,1,21,87.5776397515528,252,87.18446215535855,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,4,2,22,89.13043478260869,267,86.44622096310106,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,4,2,22,88.35403726708074,267,87.10658116944496,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,4,2,22,88.04347826086956,225,84.89267167963327,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,4,2,22,86.95652173913044,225,84.9706431196536,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,4,2,22,84.78260869565217,57,83.14505311012877,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,4,2,22,87.4223602484472,57,84.85445481953047,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,4,2,22,88.66459627329193,252,86.64033547619111,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,4,2,22,88.19875776397515,252,87.06777635764831,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,4,3,23,87.88819875776397,267,87.45641242730882,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,4,3,23,87.88819875776397,267,87.57323390617918,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,4,3,23,87.5776397515528,225,86.25246826643802,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,4,3,23,85.55900621118012,225,85.82552488256795,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,4,3,23,85.55900621118012,57,82.87387169808589,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,4,3,23,85.55900621118012,57,85.476281576398,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,4,3,23,87.88819875776397,252,87.26229791421875,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,4,3,23,87.88819875776397,252,87.30123840717555,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,4,4,24,86.15863141524106,267,88.23748363911345,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,4,4,24,86.4696734059098,267,87.53849952918637,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,4,4,24,84.29237947122861,225,86.25775983168299,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,4,4,24,84.44790046656298,225,85.55859481354243,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,4,4,24,83.35925349922239,57,83.96710003229212,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,4,4,24,84.9144634525661,57,85.83045463138595,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,4,4,24,86.31415241057543,252,87.96589518359018,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,4,4,24,86.00311041990669,252,87.26695630071649,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,5,0,25,87.4223602484472,267,87.37830530612837,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,5,0,25,87.73291925465838,267,87.65021035102527,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,5,0,25,86.95652173913044,225,85.94148704742418,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,5,0,25,85.09316770186336,225,85.35887214583373,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,5,0,25,84.62732919254658,57,83.68917978929619,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,5,0,25,86.80124223602485,57,85.55330324829742,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,5,0,25,88.04347826086956,252,87.02888109174488,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,5,0,25,87.88819875776397,252,87.5337506885819,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,5,1,26,88.9751552795031,267,87.53456477554266,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,5,1,26,87.4223602484472,267,87.02946904343878,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,5,1,26,86.18012422360249,225,85.78699143309154,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,5,1,26,84.472049689441,225,84.97145720661437,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,5,1,26,84.00621118012423,57,83.57299148917309,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,5,1,26,86.33540372670807,57,85.16516467622407,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,5,1,26,89.13043478260869,252,87.61231008029611,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,5,1,26,87.4223602484472,252,86.91305460804878,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,5,2,27,89.44099378881988,267,86.95109055993805,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,5,2,27,88.66459627329193,267,87.30051477432154,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,5,2,27,88.04347826086956,225,86.05785625576078,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,5,2,27,87.26708074534162,225,85.16448627042341,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,5,2,27,84.78260869565217,57,82.95111950525222,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,5,2,27,86.64596273291926,57,85.43616518005342,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,5,2,27,88.9751552795031,252,87.10658116944496,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,5,2,27,88.50931677018633,252,87.10635503417808,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,5,3,28,87.4223602484472,267,87.26139337315124,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,5,3,28,88.50931677018633,267,87.41683875560476,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,5,3,28,86.49068322981367,225,86.21303027589407,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,5,3,28,86.80124223602485,225,85.16453149747679,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,5,3,28,84.3167701863354,57,83.99993487304313,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,5,3,28,85.86956521739131,57,85.82493693087406,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,5,3,28,87.73291925465838,252,86.87307389286434,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,5,3,28,87.73291925465838,252,87.10621935301795,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,5,4,29,87.55832037325038,267,87.4214971421025,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,5,4,29,86.15863141524106,267,87.96517155073616,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,5,4,29,85.8475894245723,225,85.8688976267556,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,5,4,29,84.60342146189736,225,85.86894285380899,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,5,4,29,84.60342146189736,57,83.46177816492136,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,5,4,29,85.53654743390358,57,85.90770243855226,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,5,4,29,87.24727838258165,252,87.42158759620925,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,5,4,29,86.15863141524106,252,87.80995230354951,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,6,0,30,87.88819875776397,267,87.2623883683255,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,6,0,30,89.13043478260869,267,87.3015097694958,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,6,0,30,86.80124223602485,225,85.78712711425167,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,6,0,30,87.26708074534162,225,85.0101263372509,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,6,0,30,83.85093167701864,57,83.72897959626714,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,6,0,30,86.49068322981367,57,84.77725223941755,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,6,0,30,88.35403726708074,252,87.41792420488578,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,6,0,30,88.81987577639751,252,87.10721434819223,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,6,1,31,86.95652173913044,267,87.88281308653835,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,6,1,31,85.09316770186336,267,88.07715373489529,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,6,1,31,85.71428571428571,225,86.01868962753713,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,6,1,31,83.38509316770187,225,86.13519451703388,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,6,1,31,84.3167701863354,57,83.96049688249921,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,6,1,31,83.85093167701864,57,86.25201599590424,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,6,1,31,86.95652173913044,252,87.92166312538839,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,6,1,31,85.40372670807453,252,87.72750338524494,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,6,2,32,89.13043478260869,267,86.75742831738175,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,6,2,32,88.9751552795031,267,87.14534075418825,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,6,2,32,86.64596273291926,225,85.59233419536096,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,6,2,32,85.86956521739131,225,85.32038392341069,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,6,2,32,86.33540372670807,57,82.64090714614579,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,6,2,32,88.66459627329193,57,85.12604327505375,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,6,2,32,90.06211180124224,252,86.56340425839844,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,6,2,32,88.50931677018633,252,86.71817123505133,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,6,3,33,87.73291925465838,267,87.18437170125179,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,6,3,33,88.35403726708074,267,87.3785766684486,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,6,3,33,86.18012422360249,225,85.66971768368742,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,6,3,33,85.71428571428571,225,85.24263861865724,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,6,3,33,84.3167701863354,57,83.30117689838295,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,6,3,33,86.95652173913044,57,86.05826329924118,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,6,3,33,87.73291925465838,252,87.26198132484512,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,6,3,33,88.04347826086956,252,87.30087659074854,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,6,4,34,87.09175738724728,267,87.53854475623974,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,6,4,34,86.93623639191291,267,87.53840907507963,"{'model__max_depth': 40, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,6,4,34,86.62519440124416,225,85.94686906677595,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,6,4,34,85.8475894245723,225,85.51983522879914,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,6,4,34,82.42612752721618,57,83.42369698597871,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,6,4,34,84.9144634525661,57,85.79146891137577,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,6,4,34,87.40279937791601,252,87.42222077495651,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,6,4,34,87.09175738724728,252,87.538454302133,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,7,0,35,87.11180124223603,267,87.5337506885819,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,7,0,35,87.5776397515528,267,87.61149599333535,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,7,0,35,85.40372670807453,225,86.05812761808104,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,7,0,35,86.0248447204969,225,85.08710278209696,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,7,0,35,83.69565217391305,57,83.26191981605253,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,7,0,35,85.55900621118012,57,85.59246987652111,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,7,0,35,86.49068322981367,252,87.45614106498856,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,7,0,35,87.11180124223603,252,87.61149599333534,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,7,1,36,88.35403726708074,267,87.33909345085131,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,7,1,36,88.04347826086956,267,87.33981708370533,"{'model__max_depth': 40, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,7,1,36,87.26708074534162,225,85.55280575071028,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,7,1,36,86.49068322981367,225,85.51440798239402,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,7,1,36,85.09316770186336,57,83.7273514223456,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,7,1,36,86.18012422360249,57,85.5531675671373,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,7,1,36,88.04347826086956,252,86.83440476222782,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,7,1,36,87.88819875776397,252,87.18437170125179,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,7,2,37,89.44099378881988,267,87.22362878358221,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,7,2,37,88.04347826086956,267,87.0681381740753,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,7,2,37,87.11180124223603,225,86.01954894155128,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,7,2,37,85.86956521739131,225,85.24263861865724,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,7,2,37,85.55900621118012,57,83.6121128903434,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,7,2,37,88.19875776397515,57,85.16525513033079,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,7,2,37,89.59627329192547,252,87.26252404948563,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,7,2,37,88.35403726708074,252,87.14579302472201,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,7,3,38,87.5776397515528,267,87.65034603218538,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,7,3,38,86.64596273291926,267,87.80592709579905,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,7,3,38,85.24844720496894,225,86.67954733146817,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,7,3,38,85.09316770186336,225,85.70892953896447,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,7,3,38,84.16149068322981,57,84.07777063190335,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,7,3,38,84.62732919254658,57,85.66985336484754,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,7,3,38,87.73291925465838,252,87.45618629204195,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,7,3,38,86.80124223602485,252,87.72827224515233,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,7,4,39,88.80248833592535,267,86.99496080171284,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,7,4,39,87.24727838258165,267,87.18912054185628,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,7,4,39,86.4696734059098,225,85.83054508549269,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,7,4,39,85.53654743390358,225,85.13151574851227,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 2, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,7,4,39,84.60342146189736,57,83.6950593062351,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,7,4,39,85.53654743390358,57,85.59762576060596,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,7,4,39,88.33592534992223,252,86.8786368204296,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,7,4,39,86.93623639191291,252,87.03372038645612,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,8,0,40,88.19875776397515,267,86.99043809637523,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,8,0,40,88.04347826086956,267,87.68987447683607,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,8,0,40,86.49068322981367,225,85.43738631049457,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,8,0,40,85.71428571428571,225,86.05903215914857,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,8,0,40,84.3167701863354,57,83.37905788429653,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,8,0,40,86.18012422360249,57,85.4768243010385,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,8,0,40,88.19875776397515,252,87.22340264831533,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,8,0,40,87.88819875776397,252,87.53461000259604,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,8,1,41,86.95652173913044,267,87.84522940518283,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,8,1,41,86.18012422360249,267,88.03952482648641,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,8,1,41,86.18012422360249,225,85.7092461283381,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,8,1,41,84.78260869565217,225,85.5150411611413,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,8,1,41,82.7639751552795,57,83.92273229293018,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,8,1,41,84.472049689441,57,85.86469151079163,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,8,1,41,87.26708074534162,252,87.49589564490611,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,8,1,41,85.86956521739131,252,87.9229747099363,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,8,2,42,87.26708074534162,267,87.41756238845878,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,8,2,42,86.64596273291926,267,87.33977185665195,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,8,2,42,84.62732919254658,225,86.25237781233125,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,8,2,42,84.93788819875776,225,85.20405994212746,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,8,2,42,83.69565217391305,57,83.14532447244903,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,8,2,42,85.09316770186336,57,85.63104855305087,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,8,2,42,87.26708074534162,252,87.49526246615886,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,8,2,42,86.18012422360249,252,87.26243359537888,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,8,3,43,87.4223602484472,267,87.4949911038386,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,8,3,43,87.73291925465838,267,87.53393159679538,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,8,3,43,85.40372670807453,225,86.36856611245435,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,8,3,43,86.64596273291926,225,85.4755127164906,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,8,3,43,85.40372670807453,57,83.33975557491273,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,8,3,43,86.64596273291926,57,85.8254344284612,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,8,3,43,87.26708074534162,252,87.22295037778159,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,8,3,43,87.88819875776397,252,87.61149599333535,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,8,4,44,90.51321928460342,267,86.72405075199022,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,8,4,44,89.5800933125972,267,87.07311314994669,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,8,4,44,90.51321928460342,225,85.17113464726968,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,8,4,44,88.95800933125972,225,84.78272471287606,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,8,4,44,88.33592534992223,57,83.11411780561956,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,8,4,44,88.95800933125972,57,85.48188973101661,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,8,4,44,90.51321928460342,252,86.6462602201834,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,8,4,44,89.26905132192846,252,86.87908909096336,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,9,0,45,88.35403726708074,267,87.1458382517754,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,9,0,45,88.50931677018633,267,87.49571473669263,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,9,0,45,86.18012422360249,225,85.86432969436463,{'model__C': 1}
+HaGRID,Random forest,Hybrid - scale,9,0,45,86.64596273291926,225,85.43720540228108,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,9,0,45,85.09316770186336,57,83.37869606786953,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,9,0,45,86.49068322981367,57,84.89362144775416,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,9,0,45,88.50931677018633,252,86.87384275277174,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,9,0,45,88.81987577639751,252,87.34045026245258,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,9,1,46,89.28571428571429,267,87.06791203880843,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,9,1,46,88.66459627329193,267,87.45609583793518,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,9,1,46,88.19875776397515,225,85.39799354700402,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,9,1,46,86.49068322981367,225,85.514046165967,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,9,1,46,85.09316770186336,57,83.65019406928603,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,9,1,46,85.86956521739131,57,85.43697926701418,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,9,1,46,89.28571428571429,252,86.99025718816173,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,9,1,46,88.35403726708074,252,87.37826007907498,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,9,2,47,85.86956521739131,267,87.30046954726815,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,9,2,47,85.71428571428571,267,87.88344626528563,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,9,2,47,85.55900621118012,225,85.47560317059735,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,9,2,47,84.00621118012423,225,85.82511783908757,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,9,2,47,83.69565217391305,57,83.68936069750971,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,9,2,47,86.0248447204969,57,85.86401310499099,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,9,2,47,85.55900621118012,252,87.06759544943479,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,9,2,47,85.55900621118012,252,87.72818179104559,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,9,3,48,86.18012422360249,267,87.53397682384877,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,9,3,48,87.11180124223603,267,87.96150815941269,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,9,3,48,85.40372670807453,225,86.40791364889154,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,9,3,48,84.62732919254658,225,85.70906522012459,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,9,3,48,83.22981366459628,57,83.57281058095958,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,9,3,48,84.3167701863354,57,86.36874702066785,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,9,3,48,85.86956521739131,252,87.61154122038872,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,9,3,48,86.49068322981367,252,87.84518417812946,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid,9,4,49,89.73561430793157,267,86.87877250158974,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid,9,4,49,88.64696734059098,267,87.1114204641562,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - scale,9,4,49,88.02488335925351,225,85.481211325216,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - scale,9,4,49,86.4696734059098,225,85.13187756493927,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - norm-dist,9,4,49,86.4696734059098,57,83.34635872470564,{'model__C': 1}
+HaGRID,Random forest,Hybrid - norm-dist,9,4,49,88.18040435458786,57,85.24847290854275,"{'model__max_depth': None, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"
+HaGRID,Multinomial logistic,Hybrid - angle,9,4,49,89.26905132192846,252,86.64580794964962,{'model__C': 0.1}
+HaGRID,Random forest,Hybrid - angle,9,4,49,88.18040435458786,252,86.68452230733953,"{'model__max_depth': 20, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"

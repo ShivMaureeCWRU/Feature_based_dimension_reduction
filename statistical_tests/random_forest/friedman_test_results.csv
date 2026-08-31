@@ -1,0 +1,2 @@
+test,statistic,p_value,n_representations,n_folds
+Friedman test,116.29013854930733,4.532850920649109e-22,8,50

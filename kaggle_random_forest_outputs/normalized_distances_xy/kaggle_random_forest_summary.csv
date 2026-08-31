@@ -1,0 +1,15 @@
+Metric,Value
+Representation,normalized_distances_xy
+Training accuracy,1.0
+Training error,0.0
+Test accuracy,0.9402173913043478
+Test error,0.05978260869565222
+Cross-validation best accuracy,0.9306537530266343
+Number of training observations,1471
+Number of test observations,368
+Number of predictors,210
+Number of classes,36
+Number of trees,500
+Maximum tree depth,
+Maximum features per split,log2
+Minimum samples per leaf,1

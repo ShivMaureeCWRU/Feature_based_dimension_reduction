@@ -1,0 +1,5 @@
+ablation_variant,dimension
+Hybrid,267
+Hybrid - scale,225
+Hybrid - norm-dist,57
+Hybrid - angle,252

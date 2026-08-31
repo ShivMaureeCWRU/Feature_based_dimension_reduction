@@ -1,0 +1,105 @@
+Random Forest Results Across Representations
+
+Random Forest Classifier Results
+--------------------------------
+Representation: raw_xy
+Number of observations: 1839
+Number of predictors: 42
+Number of classes: 36
+Best hyperparameters: {'max_depth': 20, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'n_estimators': 300}
+Best cross-validation accuracy: 94.63%
+Training accuracy: 100.00%
+Test accuracy: 95.65%
+Outputs saved in: ../kaggle_random_forest_outputs\raw_xy
+
+
+Random Forest Classifier Results
+--------------------------------
+Representation: raw_xyz
+Number of observations: 1839
+Number of predictors: 63
+Number of classes: 36
+Best hyperparameters: {'max_depth': None, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'n_estimators': 500}
+Best cross-validation accuracy: 94.22%
+Training accuracy: 100.00%
+Test accuracy: 95.65%
+Outputs saved in: ../kaggle_random_forest_outputs\raw_xyz
+
+
+Random Forest Classifier Results
+--------------------------------
+Representation: translated_xy
+Number of observations: 1839
+Number of predictors: 42
+Number of classes: 36
+Best hyperparameters: {'max_depth': None, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'n_estimators': 300}
+Best cross-validation accuracy: 93.88%
+Training accuracy: 100.00%
+Test accuracy: 93.75%
+Outputs saved in: ../kaggle_random_forest_outputs\translated_xy
+
+
+Random Forest Classifier Results
+--------------------------------
+Representation: scaled_xy
+Number of observations: 1839
+Number of predictors: 42
+Number of classes: 36
+Best hyperparameters: {'max_depth': None, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'n_estimators': 500}
+Best cross-validation accuracy: 93.68%
+Training accuracy: 100.00%
+Test accuracy: 92.39%
+Outputs saved in: ../kaggle_random_forest_outputs\scaled_xy
+
+
+Random Forest Classifier Results
+--------------------------------
+Representation: distances_xy
+Number of observations: 1839
+Number of predictors: 210
+Number of classes: 36
+Best hyperparameters: {'max_depth': None, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'n_estimators': 500}
+Best cross-validation accuracy: 93.47%
+Training accuracy: 100.00%
+Test accuracy: 93.48%
+Outputs saved in: ../kaggle_random_forest_outputs\distances_xy
+
+
+Random Forest Classifier Results
+--------------------------------
+Representation: normalized_distances_xy
+Number of observations: 1839
+Number of predictors: 210
+Number of classes: 36
+Best hyperparameters: {'max_depth': None, 'max_features': 'log2', 'min_samples_leaf': 1, 'n_estimators': 500}
+Best cross-validation accuracy: 93.07%
+Training accuracy: 100.00%
+Test accuracy: 94.02%
+Outputs saved in: ../kaggle_random_forest_outputs\normalized_distances_xy
+
+
+Random Forest Classifier Results
+--------------------------------
+Representation: angles_xy
+Number of observations: 1839
+Number of predictors: 15
+Number of classes: 36
+Best hyperparameters: {'max_depth': None, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'n_estimators': 500}
+Best cross-validation accuracy: 88.78%
+Training accuracy: 100.00%
+Test accuracy: 91.58%
+Outputs saved in: ../kaggle_random_forest_outputs\angles_xy
+
+
+Random Forest Classifier Results
+--------------------------------
+Representation: hybrid
+Number of observations: 1839
+Number of predictors: 267
+Number of classes: 36
+Best hyperparameters: {'max_depth': 20, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'n_estimators': 100}
+Best cross-validation accuracy: 94.02%
+Training accuracy: 100.00%
+Test accuracy: 94.57%
+Outputs saved in: ../kaggle_random_forest_outputs\hybrid
+

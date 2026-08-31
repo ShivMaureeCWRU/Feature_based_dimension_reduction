@@ -1,0 +1,8 @@
+representation,classifier,clean_test_accuracy,best_cv_accuracy,best_params,n_features
+XY,Multinomial logistic,99.73474801061008,99.77888329340439,{'model__C': 100},42
+Translated,Multinomial logistic,99.82316534040672,99.66833716325233,{'model__C': 100},42
+Scaled,Multinomial logistic,99.91158267020336,99.73463550579378,{'model__C': 100},42
+Distance,Multinomial logistic,99.82316534040672,99.75673495330759,{'model__C': 10},210
+Norm. distance,Multinomial logistic,100.0,99.77883440082141,{'model__C': 1},210
+Angles,Multinomial logistic,98.85057471264368,98.56246027477631,{'model__C': 100},15
+Hybrid,Multinomial logistic,100.0,99.80093384833522,{'model__C': 10},267

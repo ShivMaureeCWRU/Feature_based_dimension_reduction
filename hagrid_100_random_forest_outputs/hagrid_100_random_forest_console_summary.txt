@@ -1,0 +1,105 @@
+Random Forest Results Across Representations
+
+Random Forest Classifier Results
+--------------------------------
+Representation: raw_xy
+Number of observations: 3219
+Number of predictors: 42
+Number of classes: 34
+Best hyperparameters: {'max_depth': 20, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'n_estimators': 500}
+Best cross-validation accuracy: 50.10%
+Training accuracy: 100.00%
+Test accuracy: 53.73%
+Outputs saved in: ../hagrid_100_random_forest_outputs\raw_xy
+
+
+Random Forest Classifier Results
+--------------------------------
+Representation: raw_xyz
+Number of observations: 3219
+Number of predictors: 63
+Number of classes: 34
+Best hyperparameters: {'max_depth': 20, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'n_estimators': 300}
+Best cross-validation accuracy: 52.19%
+Training accuracy: 100.00%
+Test accuracy: 55.90%
+Outputs saved in: ../hagrid_100_random_forest_outputs\raw_xyz
+
+
+Random Forest Classifier Results
+--------------------------------
+Representation: translated_xy
+Number of observations: 3219
+Number of predictors: 42
+Number of classes: 34
+Best hyperparameters: {'max_depth': None, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'n_estimators': 500}
+Best cross-validation accuracy: 77.94%
+Training accuracy: 100.00%
+Test accuracy: 77.95%
+Outputs saved in: ../hagrid_100_random_forest_outputs\translated_xy
+
+
+Random Forest Classifier Results
+--------------------------------
+Representation: scaled_xy
+Number of observations: 3219
+Number of predictors: 42
+Number of classes: 34
+Best hyperparameters: {'max_depth': None, 'max_features': 'log2', 'min_samples_leaf': 1, 'n_estimators': 300}
+Best cross-validation accuracy: 84.47%
+Training accuracy: 100.00%
+Test accuracy: 84.63%
+Outputs saved in: ../hagrid_100_random_forest_outputs\scaled_xy
+
+
+Random Forest Classifier Results
+--------------------------------
+Representation: distances_xy
+Number of observations: 3219
+Number of predictors: 210
+Number of classes: 34
+Best hyperparameters: {'max_depth': None, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'n_estimators': 500}
+Best cross-validation accuracy: 82.45%
+Training accuracy: 100.00%
+Test accuracy: 81.68%
+Outputs saved in: ../hagrid_100_random_forest_outputs\distances_xy
+
+
+Random Forest Classifier Results
+--------------------------------
+Representation: normalized_distances_xy
+Number of observations: 3219
+Number of predictors: 210
+Number of classes: 34
+Best hyperparameters: {'max_depth': None, 'max_features': 'log2', 'min_samples_leaf': 1, 'n_estimators': 300}
+Best cross-validation accuracy: 86.17%
+Training accuracy: 100.00%
+Test accuracy: 85.09%
+Outputs saved in: ../hagrid_100_random_forest_outputs\normalized_distances_xy
+
+
+Random Forest Classifier Results
+--------------------------------
+Representation: angles_xy
+Number of observations: 3219
+Number of predictors: 15
+Number of classes: 34
+Best hyperparameters: {'max_depth': None, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'n_estimators': 500}
+Best cross-validation accuracy: 77.09%
+Training accuracy: 100.00%
+Test accuracy: 75.93%
+Outputs saved in: ../hagrid_100_random_forest_outputs\angles_xy
+
+
+Random Forest Classifier Results
+--------------------------------
+Representation: hybrid
+Number of observations: 3219
+Number of predictors: 267
+Number of classes: 34
+Best hyperparameters: {'max_depth': None, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'n_estimators': 100}
+Best cross-validation accuracy: 87.88%
+Training accuracy: 100.00%
+Test accuracy: 87.27%
+Outputs saved in: ../hagrid_100_random_forest_outputs\hybrid
+

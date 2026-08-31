@@ -1,0 +1,9 @@
+Metric,Value
+Training accuracy,0.9979371991748797
+Training error,0.0020628008251203367
+Test accuracy,0.9945004582951421
+Test error,0.005499541704857891
+Number of training observations,4363.0
+Number of test observations,1091.0
+Number of predictors,42.0
+Number of classes,29.0

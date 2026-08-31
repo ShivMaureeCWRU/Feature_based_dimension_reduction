@@ -1,0 +1,15 @@
+Metric,Value
+Representation,raw_xy
+Training accuracy,1.0
+Training error,0.0
+Test accuracy,0.9565217391304348
+Test error,0.04347826086956519
+Cross-validation best accuracy,0.9462953995157385
+Number of training observations,1471
+Number of test observations,368
+Number of predictors,42
+Number of classes,36
+Number of trees,300
+Maximum tree depth,20
+Maximum features per split,sqrt
+Minimum samples per leaf,1

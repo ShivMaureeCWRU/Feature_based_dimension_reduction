@@ -1,0 +1,14 @@
+Metric,Value
+Representation,hybrid
+Training accuracy,0.9986403806934059
+Training error,0.0013596193065941176
+Test accuracy,0.9510869565217391
+Test error,0.048913043478260865
+Cross-validation best accuracy,0.9313294131211807
+Number of training observations,1471
+Number of test observations,368
+Number of predictors,267
+Number of classes,36
+Selected C,10
+Solver,lbfgs
+Maximum iterations,10000

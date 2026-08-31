@@ -1,0 +1,21 @@
+Statistical Comparison of Feature Representations
+Repeated stratified K-fold setup: 5 folds x 10 repeats
+Total paired accuracy measurements: 50
+
+Friedman Test
+-------------
+Statistic: 341.315928
+p-value: 8.89814e-70
+
+Conclusion: The Friedman test suggests that at least one representation differs significantly in accuracy.
+
+Mean Accuracy by Representation
+-------------------------------
+hybrid: mean=87.841%, std=0.969%, min=85.870%, max=89.891%
+normalized_distances_xy: mean=85.893%, std=0.992%, min=83.540%, max=88.647%
+scaled_xy: mean=84.629%, std=1.222%, min=82.143%, max=88.025%
+distances_xy: mean=82.246%, std=1.211%, min=79.969%, max=85.070%
+translated_xy: mean=78.323%, std=1.422%, min=75.932%, max=81.960%
+angles_xy: mean=76.955%, std=1.275%, min=74.339%, max=79.503%
+raw_xyz: mean=55.284%, std=1.611%, min=52.484%, max=58.230%
+raw_xy: mean=53.880%, std=2.059%, min=49.379%, max=57.453%

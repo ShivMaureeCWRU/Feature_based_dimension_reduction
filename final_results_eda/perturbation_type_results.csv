@@ -1,0 +1,1401 @@
+perturbation_type,level,repeat,representation,classifier,accuracy,clean_accuracy,accuracy_drop,translation,scale_low,scale_high,noise
+Translation only,0,0,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation only,0,0,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation only,0,0,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation only,0,0,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation only,0,0,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation only,0,0,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation only,0,0,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation only,0,1,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation only,0,1,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation only,0,1,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation only,0,1,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation only,0,1,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation only,0,1,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation only,0,1,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation only,0,2,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation only,0,2,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation only,0,2,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation only,0,2,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation only,0,2,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation only,0,2,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation only,0,2,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation only,0,3,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation only,0,3,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation only,0,3,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation only,0,3,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation only,0,3,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation only,0,3,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation only,0,3,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation only,0,4,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation only,0,4,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation only,0,4,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation only,0,4,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation only,0,4,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation only,0,4,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation only,0,4,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation only,0,5,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation only,0,5,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation only,0,5,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation only,0,5,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation only,0,5,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation only,0,5,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation only,0,5,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation only,0,6,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation only,0,6,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation only,0,6,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation only,0,6,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation only,0,6,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation only,0,6,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation only,0,6,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation only,0,7,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation only,0,7,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation only,0,7,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation only,0,7,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation only,0,7,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation only,0,7,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation only,0,7,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation only,0,8,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation only,0,8,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation only,0,8,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation only,0,8,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation only,0,8,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation only,0,8,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation only,0,8,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation only,0,9,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation only,0,9,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation only,0,9,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation only,0,9,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation only,0,9,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation only,0,9,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation only,0,9,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation only,1,0,XY,Multinomial logistic,95.66755083996463,99.73474801061008,4.067197170645443,0.1,1.0,1.0,0.0
+Translation only,1,0,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,1.0,1.0,0.0
+Translation only,1,0,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,1.0,1.0,0.0
+Translation only,1,0,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,1.0,1.0,0.0
+Translation only,1,0,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.1,1.0,1.0,0.0
+Translation only,1,0,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.1,1.0,1.0,0.0
+Translation only,1,0,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,1.0,1.0,0.0
+Translation only,1,1,XY,Multinomial logistic,95.31388152077808,99.73474801061008,4.420866489831994,0.1,1.0,1.0,0.0
+Translation only,1,1,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,1.0,1.0,0.0
+Translation only,1,1,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,1.0,1.0,0.0
+Translation only,1,1,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,1.0,1.0,0.0
+Translation only,1,1,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.1,1.0,1.0,0.0
+Translation only,1,1,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.1,1.0,1.0,0.0
+Translation only,1,1,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,1.0,1.0,0.0
+Translation only,1,2,XY,Multinomial logistic,96.64014146772767,99.73474801061008,3.0946065428824028,0.1,1.0,1.0,0.0
+Translation only,1,2,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,1.0,1.0,0.0
+Translation only,1,2,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,1.0,1.0,0.0
+Translation only,1,2,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,1.0,1.0,0.0
+Translation only,1,2,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.1,1.0,1.0,0.0
+Translation only,1,2,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.1,1.0,1.0,0.0
+Translation only,1,2,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,1.0,1.0,0.0
+Translation only,1,3,XY,Multinomial logistic,96.28647214854111,99.73474801061008,3.448275862068968,0.1,1.0,1.0,0.0
+Translation only,1,3,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,1.0,1.0,0.0
+Translation only,1,3,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,1.0,1.0,0.0
+Translation only,1,3,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,1.0,1.0,0.0
+Translation only,1,3,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.1,1.0,1.0,0.0
+Translation only,1,3,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.1,1.0,1.0,0.0
+Translation only,1,3,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,1.0,1.0,0.0
+Translation only,1,4,XY,Multinomial logistic,95.49071618037135,99.73474801061008,4.244031830238725,0.1,1.0,1.0,0.0
+Translation only,1,4,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,1.0,1.0,0.0
+Translation only,1,4,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,1.0,1.0,0.0
+Translation only,1,4,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,1.0,1.0,0.0
+Translation only,1,4,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.1,1.0,1.0,0.0
+Translation only,1,4,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.1,1.0,1.0,0.0
+Translation only,1,4,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,1.0,1.0,0.0
+Translation only,1,5,XY,Multinomial logistic,96.64014146772767,99.73474801061008,3.0946065428824028,0.1,1.0,1.0,0.0
+Translation only,1,5,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,1.0,1.0,0.0
+Translation only,1,5,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,1.0,1.0,0.0
+Translation only,1,5,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,1.0,1.0,0.0
+Translation only,1,5,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.1,1.0,1.0,0.0
+Translation only,1,5,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.1,1.0,1.0,0.0
+Translation only,1,5,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,1.0,1.0,0.0
+Translation only,1,6,XY,Multinomial logistic,96.28647214854111,99.73474801061008,3.448275862068968,0.1,1.0,1.0,0.0
+Translation only,1,6,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,1.0,1.0,0.0
+Translation only,1,6,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,1.0,1.0,0.0
+Translation only,1,6,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,1.0,1.0,0.0
+Translation only,1,6,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.1,1.0,1.0,0.0
+Translation only,1,6,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.1,1.0,1.0,0.0
+Translation only,1,6,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,1.0,1.0,0.0
+Translation only,1,7,XY,Multinomial logistic,95.75596816976127,99.73474801061008,3.9787798408488015,0.1,1.0,1.0,0.0
+Translation only,1,7,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,1.0,1.0,0.0
+Translation only,1,7,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,1.0,1.0,0.0
+Translation only,1,7,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,1.0,1.0,0.0
+Translation only,1,7,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.1,1.0,1.0,0.0
+Translation only,1,7,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.1,1.0,1.0,0.0
+Translation only,1,7,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,1.0,1.0,0.0
+Translation only,1,8,XY,Multinomial logistic,94.42970822281167,99.73474801061008,5.305039787798407,0.1,1.0,1.0,0.0
+Translation only,1,8,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,1.0,1.0,0.0
+Translation only,1,8,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,1.0,1.0,0.0
+Translation only,1,8,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,1.0,1.0,0.0
+Translation only,1,8,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.1,1.0,1.0,0.0
+Translation only,1,8,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.1,1.0,1.0,0.0
+Translation only,1,8,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,1.0,1.0,0.0
+Translation only,1,9,XY,Multinomial logistic,96.72855879752431,99.73474801061008,3.0061892130857615,0.1,1.0,1.0,0.0
+Translation only,1,9,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,1.0,1.0,0.0
+Translation only,1,9,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,1.0,1.0,0.0
+Translation only,1,9,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,1.0,1.0,0.0
+Translation only,1,9,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.1,1.0,1.0,0.0
+Translation only,1,9,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.1,1.0,1.0,0.0
+Translation only,1,9,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,1.0,1.0,0.0
+Translation only,2,0,XY,Multinomial logistic,67.37400530503979,99.73474801061008,32.36074270557029,0.25,1.0,1.0,0.0
+Translation only,2,0,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.25,1.0,1.0,0.0
+Translation only,2,0,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.25,1.0,1.0,0.0
+Translation only,2,0,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.25,1.0,1.0,0.0
+Translation only,2,0,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.25,1.0,1.0,0.0
+Translation only,2,0,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.25,1.0,1.0,0.0
+Translation only,2,0,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,1.0,1.0,0.0
+Translation only,2,1,XY,Multinomial logistic,66.13616268788682,99.73474801061008,33.59858532272325,0.25,1.0,1.0,0.0
+Translation only,2,1,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.25,1.0,1.0,0.0
+Translation only,2,1,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.25,1.0,1.0,0.0
+Translation only,2,1,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.25,1.0,1.0,0.0
+Translation only,2,1,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.25,1.0,1.0,0.0
+Translation only,2,1,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.25,1.0,1.0,0.0
+Translation only,2,1,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,1.0,1.0,0.0
+Translation only,2,2,XY,Multinomial logistic,69.58443854995579,99.73474801061008,30.150309460654285,0.25,1.0,1.0,0.0
+Translation only,2,2,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.25,1.0,1.0,0.0
+Translation only,2,2,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.25,1.0,1.0,0.0
+Translation only,2,2,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.25,1.0,1.0,0.0
+Translation only,2,2,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.25,1.0,1.0,0.0
+Translation only,2,2,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.25,1.0,1.0,0.0
+Translation only,2,2,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,1.0,1.0,0.0
+Translation only,2,3,XY,Multinomial logistic,69.40760389036251,99.73474801061008,30.327144120247567,0.25,1.0,1.0,0.0
+Translation only,2,3,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.25,1.0,1.0,0.0
+Translation only,2,3,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.25,1.0,1.0,0.0
+Translation only,2,3,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.25,1.0,1.0,0.0
+Translation only,2,3,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.25,1.0,1.0,0.0
+Translation only,2,3,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.25,1.0,1.0,0.0
+Translation only,2,3,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,1.0,1.0,0.0
+Translation only,2,4,XY,Multinomial logistic,68.78868258178603,99.73474801061008,30.946065428824042,0.25,1.0,1.0,0.0
+Translation only,2,4,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.25,1.0,1.0,0.0
+Translation only,2,4,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.25,1.0,1.0,0.0
+Translation only,2,4,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.25,1.0,1.0,0.0
+Translation only,2,4,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.25,1.0,1.0,0.0
+Translation only,2,4,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.25,1.0,1.0,0.0
+Translation only,2,4,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,1.0,1.0,0.0
+Translation only,2,5,XY,Multinomial logistic,66.48983200707339,99.73474801061008,33.24491600353669,0.25,1.0,1.0,0.0
+Translation only,2,5,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.25,1.0,1.0,0.0
+Translation only,2,5,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.25,1.0,1.0,0.0
+Translation only,2,5,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.25,1.0,1.0,0.0
+Translation only,2,5,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.25,1.0,1.0,0.0
+Translation only,2,5,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.25,1.0,1.0,0.0
+Translation only,2,5,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,1.0,1.0,0.0
+Translation only,2,6,XY,Multinomial logistic,67.10875331564988,99.73474801061008,32.6259946949602,0.25,1.0,1.0,0.0
+Translation only,2,6,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.25,1.0,1.0,0.0
+Translation only,2,6,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.25,1.0,1.0,0.0
+Translation only,2,6,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.25,1.0,1.0,0.0
+Translation only,2,6,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.25,1.0,1.0,0.0
+Translation only,2,6,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.25,1.0,1.0,0.0
+Translation only,2,6,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,1.0,1.0,0.0
+Translation only,2,7,XY,Multinomial logistic,67.81609195402298,99.73474801061008,31.918656056587096,0.25,1.0,1.0,0.0
+Translation only,2,7,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.25,1.0,1.0,0.0
+Translation only,2,7,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.25,1.0,1.0,0.0
+Translation only,2,7,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.25,1.0,1.0,0.0
+Translation only,2,7,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.25,1.0,1.0,0.0
+Translation only,2,7,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.25,1.0,1.0,0.0
+Translation only,2,7,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,1.0,1.0,0.0
+Translation only,2,8,XY,Multinomial logistic,65.69407603890363,99.73474801061008,34.040671971706445,0.25,1.0,1.0,0.0
+Translation only,2,8,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.25,1.0,1.0,0.0
+Translation only,2,8,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.25,1.0,1.0,0.0
+Translation only,2,8,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.25,1.0,1.0,0.0
+Translation only,2,8,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.25,1.0,1.0,0.0
+Translation only,2,8,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.25,1.0,1.0,0.0
+Translation only,2,8,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,1.0,1.0,0.0
+Translation only,2,9,XY,Multinomial logistic,66.57824933687002,99.73474801061008,33.15649867374006,0.25,1.0,1.0,0.0
+Translation only,2,9,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.25,1.0,1.0,0.0
+Translation only,2,9,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.25,1.0,1.0,0.0
+Translation only,2,9,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.25,1.0,1.0,0.0
+Translation only,2,9,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.25,1.0,1.0,0.0
+Translation only,2,9,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.25,1.0,1.0,0.0
+Translation only,2,9,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,1.0,1.0,0.0
+Translation only,3,0,XY,Multinomial logistic,40.229885057471265,99.73474801061008,59.50486295313881,0.45,1.0,1.0,0.0
+Translation only,3,0,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.45,1.0,1.0,0.0
+Translation only,3,0,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.45,1.0,1.0,0.0
+Translation only,3,0,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.45,1.0,1.0,0.0
+Translation only,3,0,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.45,1.0,1.0,0.0
+Translation only,3,0,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.45,1.0,1.0,0.0
+Translation only,3,0,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,1.0,1.0,0.0
+Translation only,3,1,XY,Multinomial logistic,38.37312113174182,99.73474801061008,61.36162687886826,0.45,1.0,1.0,0.0
+Translation only,3,1,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.45,1.0,1.0,0.0
+Translation only,3,1,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.45,1.0,1.0,0.0
+Translation only,3,1,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.45,1.0,1.0,0.0
+Translation only,3,1,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.45,1.0,1.0,0.0
+Translation only,3,1,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.45,1.0,1.0,0.0
+Translation only,3,1,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,1.0,1.0,0.0
+Translation only,3,2,XY,Multinomial logistic,41.732979664014145,99.73474801061008,58.00176834659593,0.45,1.0,1.0,0.0
+Translation only,3,2,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.45,1.0,1.0,0.0
+Translation only,3,2,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.45,1.0,1.0,0.0
+Translation only,3,2,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.45,1.0,1.0,0.0
+Translation only,3,2,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.45,1.0,1.0,0.0
+Translation only,3,2,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.45,1.0,1.0,0.0
+Translation only,3,2,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,1.0,1.0,0.0
+Translation only,3,3,XY,Multinomial logistic,42.08664898320071,99.73474801061008,57.648099027409366,0.45,1.0,1.0,0.0
+Translation only,3,3,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.45,1.0,1.0,0.0
+Translation only,3,3,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.45,1.0,1.0,0.0
+Translation only,3,3,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.45,1.0,1.0,0.0
+Translation only,3,3,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.45,1.0,1.0,0.0
+Translation only,3,3,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.45,1.0,1.0,0.0
+Translation only,3,3,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,1.0,1.0,0.0
+Translation only,3,4,XY,Multinomial logistic,39.61096374889478,99.73474801061008,60.123784261715294,0.45,1.0,1.0,0.0
+Translation only,3,4,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.45,1.0,1.0,0.0
+Translation only,3,4,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.45,1.0,1.0,0.0
+Translation only,3,4,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.45,1.0,1.0,0.0
+Translation only,3,4,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.45,1.0,1.0,0.0
+Translation only,3,4,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.45,1.0,1.0,0.0
+Translation only,3,4,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,1.0,1.0,0.0
+Translation only,3,5,XY,Multinomial logistic,42.5287356321839,99.73474801061008,57.20601237842617,0.45,1.0,1.0,0.0
+Translation only,3,5,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.45,1.0,1.0,0.0
+Translation only,3,5,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.45,1.0,1.0,0.0
+Translation only,3,5,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.45,1.0,1.0,0.0
+Translation only,3,5,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.45,1.0,1.0,0.0
+Translation only,3,5,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.45,1.0,1.0,0.0
+Translation only,3,5,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,1.0,1.0,0.0
+Translation only,3,6,XY,Multinomial logistic,43.67816091954023,99.73474801061008,56.056587091069844,0.45,1.0,1.0,0.0
+Translation only,3,6,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.45,1.0,1.0,0.0
+Translation only,3,6,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.45,1.0,1.0,0.0
+Translation only,3,6,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.45,1.0,1.0,0.0
+Translation only,3,6,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.45,1.0,1.0,0.0
+Translation only,3,6,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.45,1.0,1.0,0.0
+Translation only,3,6,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,1.0,1.0,0.0
+Translation only,3,7,XY,Multinomial logistic,39.699381078691424,99.73474801061008,60.03536693191865,0.45,1.0,1.0,0.0
+Translation only,3,7,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.45,1.0,1.0,0.0
+Translation only,3,7,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.45,1.0,1.0,0.0
+Translation only,3,7,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.45,1.0,1.0,0.0
+Translation only,3,7,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.45,1.0,1.0,0.0
+Translation only,3,7,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.45,1.0,1.0,0.0
+Translation only,3,7,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,1.0,1.0,0.0
+Translation only,3,8,XY,Multinomial logistic,38.63837312113174,99.73474801061008,61.096374889478334,0.45,1.0,1.0,0.0
+Translation only,3,8,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.45,1.0,1.0,0.0
+Translation only,3,8,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.45,1.0,1.0,0.0
+Translation only,3,8,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.45,1.0,1.0,0.0
+Translation only,3,8,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.45,1.0,1.0,0.0
+Translation only,3,8,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.45,1.0,1.0,0.0
+Translation only,3,8,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,1.0,1.0,0.0
+Translation only,3,9,XY,Multinomial logistic,37.04686118479222,99.73474801061008,62.687886825817856,0.45,1.0,1.0,0.0
+Translation only,3,9,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.45,1.0,1.0,0.0
+Translation only,3,9,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.45,1.0,1.0,0.0
+Translation only,3,9,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.45,1.0,1.0,0.0
+Translation only,3,9,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.45,1.0,1.0,0.0
+Translation only,3,9,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.45,1.0,1.0,0.0
+Translation only,3,9,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,1.0,1.0,0.0
+Translation only,4,0,XY,Multinomial logistic,25.72944297082228,99.73474801061008,74.0053050397878,0.7,1.0,1.0,0.0
+Translation only,4,0,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.7,1.0,1.0,0.0
+Translation only,4,0,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.7,1.0,1.0,0.0
+Translation only,4,0,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.7,1.0,1.0,0.0
+Translation only,4,0,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.7,1.0,1.0,0.0
+Translation only,4,0,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.7,1.0,1.0,0.0
+Translation only,4,0,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.7,1.0,1.0,0.0
+Translation only,4,1,XY,Multinomial logistic,22.988505747126435,99.73474801061008,76.74624226348364,0.7,1.0,1.0,0.0
+Translation only,4,1,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.7,1.0,1.0,0.0
+Translation only,4,1,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.7,1.0,1.0,0.0
+Translation only,4,1,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.7,1.0,1.0,0.0
+Translation only,4,1,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.7,1.0,1.0,0.0
+Translation only,4,1,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.7,1.0,1.0,0.0
+Translation only,4,1,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.7,1.0,1.0,0.0
+Translation only,4,2,XY,Multinomial logistic,26.790450928381965,99.73474801061008,72.9442970822281,0.7,1.0,1.0,0.0
+Translation only,4,2,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.7,1.0,1.0,0.0
+Translation only,4,2,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.7,1.0,1.0,0.0
+Translation only,4,2,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.7,1.0,1.0,0.0
+Translation only,4,2,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.7,1.0,1.0,0.0
+Translation only,4,2,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.7,1.0,1.0,0.0
+Translation only,4,2,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.7,1.0,1.0,0.0
+Translation only,4,3,XY,Multinomial logistic,23.872679045092838,99.73474801061008,75.86206896551724,0.7,1.0,1.0,0.0
+Translation only,4,3,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.7,1.0,1.0,0.0
+Translation only,4,3,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.7,1.0,1.0,0.0
+Translation only,4,3,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.7,1.0,1.0,0.0
+Translation only,4,3,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.7,1.0,1.0,0.0
+Translation only,4,3,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.7,1.0,1.0,0.0
+Translation only,4,3,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.7,1.0,1.0,0.0
+Translation only,4,4,XY,Multinomial logistic,28.735632183908045,99.73474801061008,70.99911582670202,0.7,1.0,1.0,0.0
+Translation only,4,4,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.7,1.0,1.0,0.0
+Translation only,4,4,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.7,1.0,1.0,0.0
+Translation only,4,4,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.7,1.0,1.0,0.0
+Translation only,4,4,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.7,1.0,1.0,0.0
+Translation only,4,4,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.7,1.0,1.0,0.0
+Translation only,4,4,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.7,1.0,1.0,0.0
+Translation only,4,5,XY,Multinomial logistic,25.64102564102564,99.73474801061008,74.09372236958444,0.7,1.0,1.0,0.0
+Translation only,4,5,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.7,1.0,1.0,0.0
+Translation only,4,5,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.7,1.0,1.0,0.0
+Translation only,4,5,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.7,1.0,1.0,0.0
+Translation only,4,5,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.7,1.0,1.0,0.0
+Translation only,4,5,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.7,1.0,1.0,0.0
+Translation only,4,5,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.7,1.0,1.0,0.0
+Translation only,4,6,XY,Multinomial logistic,24.6684350132626,99.73474801061008,75.06631299734748,0.7,1.0,1.0,0.0
+Translation only,4,6,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.7,1.0,1.0,0.0
+Translation only,4,6,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.7,1.0,1.0,0.0
+Translation only,4,6,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.7,1.0,1.0,0.0
+Translation only,4,6,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.7,1.0,1.0,0.0
+Translation only,4,6,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.7,1.0,1.0,0.0
+Translation only,4,6,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.7,1.0,1.0,0.0
+Translation only,4,7,XY,Multinomial logistic,28.028293545534925,99.73474801061008,71.70645446507515,0.7,1.0,1.0,0.0
+Translation only,4,7,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.7,1.0,1.0,0.0
+Translation only,4,7,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.7,1.0,1.0,0.0
+Translation only,4,7,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.7,1.0,1.0,0.0
+Translation only,4,7,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.7,1.0,1.0,0.0
+Translation only,4,7,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.7,1.0,1.0,0.0
+Translation only,4,7,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.7,1.0,1.0,0.0
+Translation only,4,8,XY,Multinomial logistic,26.08311229000884,99.73474801061008,73.65163572060123,0.7,1.0,1.0,0.0
+Translation only,4,8,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.7,1.0,1.0,0.0
+Translation only,4,8,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.7,1.0,1.0,0.0
+Translation only,4,8,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.7,1.0,1.0,0.0
+Translation only,4,8,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.7,1.0,1.0,0.0
+Translation only,4,8,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.7,1.0,1.0,0.0
+Translation only,4,8,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.7,1.0,1.0,0.0
+Translation only,4,9,XY,Multinomial logistic,25.198938992042443,99.73474801061008,74.53580901856763,0.7,1.0,1.0,0.0
+Translation only,4,9,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.7,1.0,1.0,0.0
+Translation only,4,9,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.7,1.0,1.0,0.0
+Translation only,4,9,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.7,1.0,1.0,0.0
+Translation only,4,9,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.7,1.0,1.0,0.0
+Translation only,4,9,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.7,1.0,1.0,0.0
+Translation only,4,9,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.7,1.0,1.0,0.0
+Scale only,0,0,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Scale only,0,0,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Scale only,0,0,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Scale only,0,0,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Scale only,0,0,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Scale only,0,0,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Scale only,0,0,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Scale only,0,1,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Scale only,0,1,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Scale only,0,1,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Scale only,0,1,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Scale only,0,1,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Scale only,0,1,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Scale only,0,1,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Scale only,0,2,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Scale only,0,2,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Scale only,0,2,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Scale only,0,2,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Scale only,0,2,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Scale only,0,2,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Scale only,0,2,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Scale only,0,3,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Scale only,0,3,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Scale only,0,3,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Scale only,0,3,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Scale only,0,3,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Scale only,0,3,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Scale only,0,3,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Scale only,0,4,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Scale only,0,4,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Scale only,0,4,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Scale only,0,4,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Scale only,0,4,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Scale only,0,4,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Scale only,0,4,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Scale only,0,5,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Scale only,0,5,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Scale only,0,5,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Scale only,0,5,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Scale only,0,5,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Scale only,0,5,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Scale only,0,5,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Scale only,0,6,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Scale only,0,6,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Scale only,0,6,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Scale only,0,6,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Scale only,0,6,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Scale only,0,6,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Scale only,0,6,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Scale only,0,7,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Scale only,0,7,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Scale only,0,7,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Scale only,0,7,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Scale only,0,7,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Scale only,0,7,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Scale only,0,7,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Scale only,0,8,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Scale only,0,8,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Scale only,0,8,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Scale only,0,8,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Scale only,0,8,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Scale only,0,8,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Scale only,0,8,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Scale only,0,9,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Scale only,0,9,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Scale only,0,9,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Scale only,0,9,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Scale only,0,9,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Scale only,0,9,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Scale only,0,9,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Scale only,1,0,XY,Multinomial logistic,95.57913351016799,99.73474801061008,4.155614500442084,0.0,0.8,1.25,0.0
+Scale only,1,0,Translated,Multinomial logistic,99.73474801061008,99.82316534040672,0.0884173297966413,0.0,0.8,1.25,0.0
+Scale only,1,0,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.8,1.25,0.0
+Scale only,1,0,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,0.8,1.25,0.0
+Scale only,1,0,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.8,1.25,0.0
+Scale only,1,0,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.8,1.25,0.0
+Scale only,1,0,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.8,1.25,0.0
+Scale only,1,1,XY,Multinomial logistic,95.84438549955792,99.73474801061008,3.8903625110521602,0.0,0.8,1.25,0.0
+Scale only,1,1,Translated,Multinomial logistic,99.73474801061008,99.82316534040672,0.0884173297966413,0.0,0.8,1.25,0.0
+Scale only,1,1,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.8,1.25,0.0
+Scale only,1,1,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,0.8,1.25,0.0
+Scale only,1,1,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.8,1.25,0.0
+Scale only,1,1,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.8,1.25,0.0
+Scale only,1,1,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.8,1.25,0.0
+Scale only,1,2,XY,Multinomial logistic,95.93280282935456,99.73474801061008,3.801945181255519,0.0,0.8,1.25,0.0
+Scale only,1,2,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,0.8,1.25,0.0
+Scale only,1,2,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.8,1.25,0.0
+Scale only,1,2,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,0.8,1.25,0.0
+Scale only,1,2,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.8,1.25,0.0
+Scale only,1,2,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.8,1.25,0.0
+Scale only,1,2,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.8,1.25,0.0
+Scale only,1,3,XY,Multinomial logistic,95.93280282935456,99.73474801061008,3.801945181255519,0.0,0.8,1.25,0.0
+Scale only,1,3,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,0.8,1.25,0.0
+Scale only,1,3,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.8,1.25,0.0
+Scale only,1,3,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,0.8,1.25,0.0
+Scale only,1,3,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.8,1.25,0.0
+Scale only,1,3,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.8,1.25,0.0
+Scale only,1,3,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.8,1.25,0.0
+Scale only,1,4,XY,Multinomial logistic,96.19805481874447,99.73474801061008,3.5366931918656093,0.0,0.8,1.25,0.0
+Scale only,1,4,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,0.8,1.25,0.0
+Scale only,1,4,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.8,1.25,0.0
+Scale only,1,4,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,0.8,1.25,0.0
+Scale only,1,4,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.8,1.25,0.0
+Scale only,1,4,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.8,1.25,0.0
+Scale only,1,4,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.8,1.25,0.0
+Scale only,1,5,XY,Multinomial logistic,96.46330680813439,99.73474801061008,3.2714412024756854,0.0,0.8,1.25,0.0
+Scale only,1,5,Translated,Multinomial logistic,99.73474801061008,99.82316534040672,0.0884173297966413,0.0,0.8,1.25,0.0
+Scale only,1,5,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.8,1.25,0.0
+Scale only,1,5,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,0.8,1.25,0.0
+Scale only,1,5,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.8,1.25,0.0
+Scale only,1,5,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.8,1.25,0.0
+Scale only,1,5,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.8,1.25,0.0
+Scale only,1,6,XY,Multinomial logistic,95.84438549955792,99.73474801061008,3.8903625110521602,0.0,0.8,1.25,0.0
+Scale only,1,6,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,0.8,1.25,0.0
+Scale only,1,6,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.8,1.25,0.0
+Scale only,1,6,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,0.8,1.25,0.0
+Scale only,1,6,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.8,1.25,0.0
+Scale only,1,6,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.8,1.25,0.0
+Scale only,1,6,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.8,1.25,0.0
+Scale only,1,7,XY,Multinomial logistic,95.66755083996463,99.73474801061008,4.067197170645443,0.0,0.8,1.25,0.0
+Scale only,1,7,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,0.8,1.25,0.0
+Scale only,1,7,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.8,1.25,0.0
+Scale only,1,7,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,0.8,1.25,0.0
+Scale only,1,7,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.8,1.25,0.0
+Scale only,1,7,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.8,1.25,0.0
+Scale only,1,7,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.8,1.25,0.0
+Scale only,1,8,XY,Multinomial logistic,95.75596816976127,99.73474801061008,3.9787798408488015,0.0,0.8,1.25,0.0
+Scale only,1,8,Translated,Multinomial logistic,99.73474801061008,99.82316534040672,0.0884173297966413,0.0,0.8,1.25,0.0
+Scale only,1,8,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.8,1.25,0.0
+Scale only,1,8,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,0.8,1.25,0.0
+Scale only,1,8,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.8,1.25,0.0
+Scale only,1,8,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.8,1.25,0.0
+Scale only,1,8,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.8,1.25,0.0
+Scale only,1,9,XY,Multinomial logistic,95.31388152077808,99.73474801061008,4.420866489831994,0.0,0.8,1.25,0.0
+Scale only,1,9,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,0.8,1.25,0.0
+Scale only,1,9,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.8,1.25,0.0
+Scale only,1,9,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,0.8,1.25,0.0
+Scale only,1,9,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.8,1.25,0.0
+Scale only,1,9,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.8,1.25,0.0
+Scale only,1,9,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.8,1.25,0.0
+Scale only,2,0,XY,Multinomial logistic,78.51458885941645,99.73474801061008,21.220159151193627,0.0,0.6,1.6,0.0
+Scale only,2,0,Translated,Multinomial logistic,99.46949602122017,99.82316534040672,0.353669319186551,0.0,0.6,1.6,0.0
+Scale only,2,0,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.6,1.6,0.0
+Scale only,2,0,Distance,Multinomial logistic,99.64633068081345,99.82316534040672,0.17683465959326838,0.0,0.6,1.6,0.0
+Scale only,2,0,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.6,1.6,0.0
+Scale only,2,0,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.6,1.6,0.0
+Scale only,2,0,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.6,1.6,0.0
+Scale only,2,1,XY,Multinomial logistic,77.45358090185677,99.73474801061008,22.28116710875331,0.0,0.6,1.6,0.0
+Scale only,2,1,Translated,Multinomial logistic,99.64633068081345,99.82316534040672,0.17683465959326838,0.0,0.6,1.6,0.0
+Scale only,2,1,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.6,1.6,0.0
+Scale only,2,1,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,0.6,1.6,0.0
+Scale only,2,1,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.6,1.6,0.0
+Scale only,2,1,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.6,1.6,0.0
+Scale only,2,1,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.6,1.6,0.0
+Scale only,2,2,XY,Multinomial logistic,79.04509283819628,99.73474801061008,20.689655172413794,0.0,0.6,1.6,0.0
+Scale only,2,2,Translated,Multinomial logistic,99.73474801061008,99.82316534040672,0.0884173297966413,0.0,0.6,1.6,0.0
+Scale only,2,2,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.6,1.6,0.0
+Scale only,2,2,Distance,Multinomial logistic,99.46949602122017,99.82316534040672,0.353669319186551,0.0,0.6,1.6,0.0
+Scale only,2,2,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.6,1.6,0.0
+Scale only,2,2,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.6,1.6,0.0
+Scale only,2,2,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.6,1.6,0.0
+Scale only,2,3,XY,Multinomial logistic,78.51458885941645,99.73474801061008,21.220159151193627,0.0,0.6,1.6,0.0
+Scale only,2,3,Translated,Multinomial logistic,99.64633068081345,99.82316534040672,0.17683465959326838,0.0,0.6,1.6,0.0
+Scale only,2,3,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.6,1.6,0.0
+Scale only,2,3,Distance,Multinomial logistic,99.64633068081345,99.82316534040672,0.17683465959326838,0.0,0.6,1.6,0.0
+Scale only,2,3,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.6,1.6,0.0
+Scale only,2,3,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.6,1.6,0.0
+Scale only,2,3,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.6,1.6,0.0
+Scale only,2,4,XY,Multinomial logistic,78.868258178603,99.73474801061008,20.866489832007076,0.0,0.6,1.6,0.0
+Scale only,2,4,Translated,Multinomial logistic,99.73474801061008,99.82316534040672,0.0884173297966413,0.0,0.6,1.6,0.0
+Scale only,2,4,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.6,1.6,0.0
+Scale only,2,4,Distance,Multinomial logistic,99.55791335101681,99.82316534040672,0.2652519893899097,0.0,0.6,1.6,0.0
+Scale only,2,4,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.6,1.6,0.0
+Scale only,2,4,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.6,1.6,0.0
+Scale only,2,4,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.6,1.6,0.0
+Scale only,2,5,XY,Multinomial logistic,75.68523430592397,99.73474801061008,24.049513704686106,0.0,0.6,1.6,0.0
+Scale only,2,5,Translated,Multinomial logistic,99.64633068081345,99.82316534040672,0.17683465959326838,0.0,0.6,1.6,0.0
+Scale only,2,5,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.6,1.6,0.0
+Scale only,2,5,Distance,Multinomial logistic,99.38107869142353,99.82316534040672,0.4420866489831923,0.0,0.6,1.6,0.0
+Scale only,2,5,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.6,1.6,0.0
+Scale only,2,5,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.6,1.6,0.0
+Scale only,2,5,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.6,1.6,0.0
+Scale only,2,6,XY,Multinomial logistic,77.54199823165341,99.73474801061008,22.192749778956667,0.0,0.6,1.6,0.0
+Scale only,2,6,Translated,Multinomial logistic,99.64633068081345,99.82316534040672,0.17683465959326838,0.0,0.6,1.6,0.0
+Scale only,2,6,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.6,1.6,0.0
+Scale only,2,6,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,0.6,1.6,0.0
+Scale only,2,6,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.6,1.6,0.0
+Scale only,2,6,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.6,1.6,0.0
+Scale only,2,6,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.6,1.6,0.0
+Scale only,2,7,XY,Multinomial logistic,76.83465959328029,99.73474801061008,22.900088417329783,0.0,0.6,1.6,0.0
+Scale only,2,7,Translated,Multinomial logistic,99.46949602122017,99.82316534040672,0.353669319186551,0.0,0.6,1.6,0.0
+Scale only,2,7,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.6,1.6,0.0
+Scale only,2,7,Distance,Multinomial logistic,99.38107869142353,99.82316534040672,0.4420866489831923,0.0,0.6,1.6,0.0
+Scale only,2,7,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.6,1.6,0.0
+Scale only,2,7,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.6,1.6,0.0
+Scale only,2,7,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.6,1.6,0.0
+Scale only,2,8,XY,Multinomial logistic,77.01149425287356,99.73474801061008,22.723253757736515,0.0,0.6,1.6,0.0
+Scale only,2,8,Translated,Multinomial logistic,99.55791335101681,99.82316534040672,0.2652519893899097,0.0,0.6,1.6,0.0
+Scale only,2,8,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.6,1.6,0.0
+Scale only,2,8,Distance,Multinomial logistic,99.46949602122017,99.82316534040672,0.353669319186551,0.0,0.6,1.6,0.0
+Scale only,2,8,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.6,1.6,0.0
+Scale only,2,8,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.6,1.6,0.0
+Scale only,2,8,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.6,1.6,0.0
+Scale only,2,9,XY,Multinomial logistic,74.62422634836427,99.73474801061008,25.1105216622458,0.0,0.6,1.6,0.0
+Scale only,2,9,Translated,Multinomial logistic,99.46949602122017,99.82316534040672,0.353669319186551,0.0,0.6,1.6,0.0
+Scale only,2,9,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.6,1.6,0.0
+Scale only,2,9,Distance,Multinomial logistic,99.55791335101681,99.82316534040672,0.2652519893899097,0.0,0.6,1.6,0.0
+Scale only,2,9,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.6,1.6,0.0
+Scale only,2,9,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.6,1.6,0.0
+Scale only,2,9,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.6,1.6,0.0
+Scale only,3,0,XY,Multinomial logistic,59.77011494252874,99.73474801061008,39.96463306808133,0.0,0.4,2.0,0.0
+Scale only,3,0,Translated,Multinomial logistic,97.17064544650752,99.82316534040672,2.6525198938991963,0.0,0.4,2.0,0.0
+Scale only,3,0,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.4,2.0,0.0
+Scale only,3,0,Distance,Multinomial logistic,96.64014146772767,99.82316534040672,3.183023872679044,0.0,0.4,2.0,0.0
+Scale only,3,0,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.4,2.0,0.0
+Scale only,3,0,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.4,2.0,0.0
+Scale only,3,0,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.4,2.0,0.0
+Scale only,3,1,XY,Multinomial logistic,61.53846153846154,99.73474801061008,38.196286472148536,0.0,0.4,2.0,0.0
+Scale only,3,1,Translated,Multinomial logistic,97.25906277630415,99.82316534040672,2.564102564102569,0.0,0.4,2.0,0.0
+Scale only,3,1,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.4,2.0,0.0
+Scale only,3,1,Distance,Multinomial logistic,96.72855879752431,99.82316534040672,3.0946065428824028,0.0,0.4,2.0,0.0
+Scale only,3,1,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.4,2.0,0.0
+Scale only,3,1,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.4,2.0,0.0
+Scale only,3,1,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.4,2.0,0.0
+Scale only,3,2,XY,Multinomial logistic,60.83112290008842,99.73474801061008,38.90362511052166,0.0,0.4,2.0,0.0
+Scale only,3,2,Translated,Multinomial logistic,97.789566755084,99.82316534040672,2.0335985853227214,0.0,0.4,2.0,0.0
+Scale only,3,2,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.4,2.0,0.0
+Scale only,3,2,Distance,Multinomial logistic,97.52431476569407,99.82316534040672,2.2988505747126453,0.0,0.4,2.0,0.0
+Scale only,3,2,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.4,2.0,0.0
+Scale only,3,2,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.4,2.0,0.0
+Scale only,3,2,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.4,2.0,0.0
+Scale only,3,3,XY,Multinomial logistic,61.36162687886826,99.73474801061008,38.37312113174182,0.0,0.4,2.0,0.0
+Scale only,3,3,Translated,Multinomial logistic,97.43589743589743,99.82316534040672,2.3872679045092866,0.0,0.4,2.0,0.0
+Scale only,3,3,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.4,2.0,0.0
+Scale only,3,3,Distance,Multinomial logistic,97.43589743589743,99.82316534040672,2.3872679045092866,0.0,0.4,2.0,0.0
+Scale only,3,3,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.4,2.0,0.0
+Scale only,3,3,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.4,2.0,0.0
+Scale only,3,3,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.4,2.0,0.0
+Scale only,3,4,XY,Multinomial logistic,59.85853227232537,99.73474801061008,39.876215738284706,0.0,0.4,2.0,0.0
+Scale only,3,4,Translated,Multinomial logistic,96.55172413793103,99.82316534040672,3.2714412024756854,0.0,0.4,2.0,0.0
+Scale only,3,4,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.4,2.0,0.0
+Scale only,3,4,Distance,Multinomial logistic,96.37488947833775,99.82316534040672,3.448275862068968,0.0,0.4,2.0,0.0
+Scale only,3,4,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.4,2.0,0.0
+Scale only,3,4,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.4,2.0,0.0
+Scale only,3,4,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.4,2.0,0.0
+Scale only,3,5,XY,Multinomial logistic,59.77011494252874,99.73474801061008,39.96463306808133,0.0,0.4,2.0,0.0
+Scale only,3,5,Translated,Multinomial logistic,97.34748010610079,99.82316534040672,2.475685234305928,0.0,0.4,2.0,0.0
+Scale only,3,5,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.4,2.0,0.0
+Scale only,3,5,Distance,Multinomial logistic,96.81697612732096,99.82316534040672,3.0061892130857615,0.0,0.4,2.0,0.0
+Scale only,3,5,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.4,2.0,0.0
+Scale only,3,5,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.4,2.0,0.0
+Scale only,3,5,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.4,2.0,0.0
+Scale only,3,6,XY,Multinomial logistic,60.56587091069849,99.73474801061008,39.16887709991158,0.0,0.4,2.0,0.0
+Scale only,3,6,Translated,Multinomial logistic,97.87798408488064,99.82316534040672,1.9451812555260801,0.0,0.4,2.0,0.0
+Scale only,3,6,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.4,2.0,0.0
+Scale only,3,6,Distance,Multinomial logistic,97.52431476569407,99.82316534040672,2.2988505747126453,0.0,0.4,2.0,0.0
+Scale only,3,6,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.4,2.0,0.0
+Scale only,3,6,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.4,2.0,0.0
+Scale only,3,6,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.4,2.0,0.0
+Scale only,3,7,XY,Multinomial logistic,61.53846153846154,99.73474801061008,38.196286472148536,0.0,0.4,2.0,0.0
+Scale only,3,7,Translated,Multinomial logistic,97.96640141467728,99.82316534040672,1.8567639257294388,0.0,0.4,2.0,0.0
+Scale only,3,7,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.4,2.0,0.0
+Scale only,3,7,Distance,Multinomial logistic,97.08222811671088,99.82316534040672,2.7409372236958376,0.0,0.4,2.0,0.0
+Scale only,3,7,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.4,2.0,0.0
+Scale only,3,7,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.4,2.0,0.0
+Scale only,3,7,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.4,2.0,0.0
+Scale only,3,8,XY,Multinomial logistic,63.48364279398763,99.73474801061008,36.25110521662245,0.0,0.4,2.0,0.0
+Scale only,3,8,Translated,Multinomial logistic,98.32007073386384,99.82316534040672,1.5030946065428736,0.0,0.4,2.0,0.0
+Scale only,3,8,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.4,2.0,0.0
+Scale only,3,8,Distance,Multinomial logistic,97.87798408488064,99.82316534040672,1.9451812555260801,0.0,0.4,2.0,0.0
+Scale only,3,8,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.4,2.0,0.0
+Scale only,3,8,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.4,2.0,0.0
+Scale only,3,8,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.4,2.0,0.0
+Scale only,3,9,XY,Multinomial logistic,62.95313881520778,99.73474801061008,36.7816091954023,0.0,0.4,2.0,0.0
+Scale only,3,9,Translated,Multinomial logistic,97.61273209549071,99.82316534040672,2.210433244916004,0.0,0.4,2.0,0.0
+Scale only,3,9,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.4,2.0,0.0
+Scale only,3,9,Distance,Multinomial logistic,97.61273209549071,99.82316534040672,2.210433244916004,0.0,0.4,2.0,0.0
+Scale only,3,9,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.4,2.0,0.0
+Scale only,3,9,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.4,2.0,0.0
+Scale only,3,9,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.4,2.0,0.0
+Scale only,4,0,XY,Multinomial logistic,50.75154730327144,99.73474801061008,48.98320070733864,0.0,0.3,2.5,0.0
+Scale only,4,0,Translated,Multinomial logistic,95.75596816976127,99.82316534040672,4.067197170645443,0.0,0.3,2.5,0.0
+Scale only,4,0,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.3,2.5,0.0
+Scale only,4,0,Distance,Multinomial logistic,94.34129089301503,99.82316534040672,5.481874447391689,0.0,0.3,2.5,0.0
+Scale only,4,0,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.3,2.5,0.0
+Scale only,4,0,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.3,2.5,0.0
+Scale only,4,0,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.3,2.5,0.0
+Scale only,4,1,XY,Multinomial logistic,47.303271441202476,99.73474801061008,52.4314765694076,0.0,0.3,2.5,0.0
+Scale only,4,1,Translated,Multinomial logistic,95.57913351016799,99.82316534040672,4.244031830238725,0.0,0.3,2.5,0.0
+Scale only,4,1,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.3,2.5,0.0
+Scale only,4,1,Distance,Multinomial logistic,94.9602122015915,99.82316534040672,4.8629531388152145,0.0,0.3,2.5,0.0
+Scale only,4,1,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.3,2.5,0.0
+Scale only,4,1,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.3,2.5,0.0
+Scale only,4,1,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.3,2.5,0.0
+Scale only,4,2,XY,Multinomial logistic,47.92219274977896,99.73474801061008,51.81255526083112,0.0,0.3,2.5,0.0
+Scale only,4,2,Translated,Multinomial logistic,95.49071618037135,99.82316534040672,4.332449160035367,0.0,0.3,2.5,0.0
+Scale only,4,2,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.3,2.5,0.0
+Scale only,4,2,Distance,Multinomial logistic,94.6949602122016,99.82316534040672,5.128205128205124,0.0,0.3,2.5,0.0
+Scale only,4,2,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.3,2.5,0.0
+Scale only,4,2,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.3,2.5,0.0
+Scale only,4,2,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.3,2.5,0.0
+Scale only,4,3,XY,Multinomial logistic,49.3368700265252,99.73474801061008,50.39787798408488,0.0,0.3,2.5,0.0
+Scale only,4,3,Translated,Multinomial logistic,94.78337754199823,99.82316534040672,5.039787798408483,0.0,0.3,2.5,0.0
+Scale only,4,3,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.3,2.5,0.0
+Scale only,4,3,Distance,Multinomial logistic,95.22546419098144,99.82316534040672,4.597701149425276,0.0,0.3,2.5,0.0
+Scale only,4,3,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.3,2.5,0.0
+Scale only,4,3,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.3,2.5,0.0
+Scale only,4,3,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.3,2.5,0.0
+Scale only,4,4,XY,Multinomial logistic,49.602122015915114,99.73474801061008,50.13262599469496,0.0,0.3,2.5,0.0
+Scale only,4,4,Translated,Multinomial logistic,95.22546419098144,99.82316534040672,4.597701149425276,0.0,0.3,2.5,0.0
+Scale only,4,4,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.3,2.5,0.0
+Scale only,4,4,Distance,Multinomial logistic,94.42970822281167,99.82316534040672,5.393457117595048,0.0,0.3,2.5,0.0
+Scale only,4,4,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.3,2.5,0.0
+Scale only,4,4,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.3,2.5,0.0
+Scale only,4,4,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.3,2.5,0.0
+Scale only,4,5,XY,Multinomial logistic,50.221043324491596,99.73474801061008,49.51370468611848,0.0,0.3,2.5,0.0
+Scale only,4,5,Translated,Multinomial logistic,96.81697612732096,99.82316534040672,3.0061892130857615,0.0,0.3,2.5,0.0
+Scale only,4,5,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.3,2.5,0.0
+Scale only,4,5,Distance,Multinomial logistic,95.57913351016799,99.82316534040672,4.244031830238725,0.0,0.3,2.5,0.0
+Scale only,4,5,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.3,2.5,0.0
+Scale only,4,5,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.3,2.5,0.0
+Scale only,4,5,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.3,2.5,0.0
+Scale only,4,6,XY,Multinomial logistic,49.3368700265252,99.73474801061008,50.39787798408488,0.0,0.3,2.5,0.0
+Scale only,4,6,Translated,Multinomial logistic,96.28647214854111,99.82316534040672,3.5366931918656093,0.0,0.3,2.5,0.0
+Scale only,4,6,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.3,2.5,0.0
+Scale only,4,6,Distance,Multinomial logistic,96.10963748894783,99.82316534040672,3.713527851458892,0.0,0.3,2.5,0.0
+Scale only,4,6,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.3,2.5,0.0
+Scale only,4,6,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.3,2.5,0.0
+Scale only,4,6,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.3,2.5,0.0
+Scale only,4,7,XY,Multinomial logistic,53.13881520778072,99.73474801061008,46.59593280282935,0.0,0.3,2.5,0.0
+Scale only,4,7,Translated,Multinomial logistic,96.19805481874447,99.82316534040672,3.6251105216622506,0.0,0.3,2.5,0.0
+Scale only,4,7,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.3,2.5,0.0
+Scale only,4,7,Distance,Multinomial logistic,96.02122015915118,99.82316534040672,3.801945181255533,0.0,0.3,2.5,0.0
+Scale only,4,7,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.3,2.5,0.0
+Scale only,4,7,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.3,2.5,0.0
+Scale only,4,7,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.3,2.5,0.0
+Scale only,4,8,XY,Multinomial logistic,47.83377541998232,99.73474801061008,51.90097259062776,0.0,0.3,2.5,0.0
+Scale only,4,8,Translated,Multinomial logistic,96.19805481874447,99.82316534040672,3.6251105216622506,0.0,0.3,2.5,0.0
+Scale only,4,8,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.3,2.5,0.0
+Scale only,4,8,Distance,Multinomial logistic,95.1370468611848,99.82316534040672,4.686118479221918,0.0,0.3,2.5,0.0
+Scale only,4,8,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.3,2.5,0.0
+Scale only,4,8,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.3,2.5,0.0
+Scale only,4,8,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.3,2.5,0.0
+Scale only,4,9,XY,Multinomial logistic,50.30946065428824,99.73474801061008,49.42528735632184,0.0,0.3,2.5,0.0
+Scale only,4,9,Translated,Multinomial logistic,95.75596816976127,99.82316534040672,4.067197170645443,0.0,0.3,2.5,0.0
+Scale only,4,9,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,0.3,2.5,0.0
+Scale only,4,9,Distance,Multinomial logistic,94.6949602122016,99.82316534040672,5.128205128205124,0.0,0.3,2.5,0.0
+Scale only,4,9,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,0.3,2.5,0.0
+Scale only,4,9,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,0.3,2.5,0.0
+Scale only,4,9,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,0.3,2.5,0.0
+Translation + scale,0,0,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,0,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,0,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,0,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,0,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,0,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,0,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,1,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,1,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,1,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,1,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,1,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,1,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,1,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,2,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,2,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,2,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,2,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,2,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,2,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,2,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,3,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,3,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,3,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,3,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,3,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,3,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,3,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,4,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,4,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,4,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,4,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,4,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,4,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,4,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,5,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,5,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,5,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,5,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,5,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,5,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,5,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,6,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,6,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,6,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,6,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,6,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,6,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,6,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,7,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,7,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,7,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,7,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,7,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,7,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,7,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,8,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,8,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,8,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,8,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,8,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,8,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,8,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,9,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,9,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,9,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,9,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,9,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,9,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation + scale,0,9,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale,1,0,XY,Multinomial logistic,91.06984969053936,99.73474801061008,8.66489832007072,0.1,0.8,1.25,0.0
+Translation + scale,1,0,Translated,Multinomial logistic,99.73474801061008,99.82316534040672,0.0884173297966413,0.1,0.8,1.25,0.0
+Translation + scale,1,0,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,0,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,0,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,0,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,0,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,1,XY,Multinomial logistic,90.62776304155614,99.73474801061008,9.10698496905394,0.1,0.8,1.25,0.0
+Translation + scale,1,1,Translated,Multinomial logistic,99.73474801061008,99.82316534040672,0.0884173297966413,0.1,0.8,1.25,0.0
+Translation + scale,1,1,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,1,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,1,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,1,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,1,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,2,XY,Multinomial logistic,90.00884173297966,99.73474801061008,9.725906277630415,0.1,0.8,1.25,0.0
+Translation + scale,1,2,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,2,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,2,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,2,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,2,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,2,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,3,XY,Multinomial logistic,90.5393457117595,99.73474801061008,9.195402298850581,0.1,0.8,1.25,0.0
+Translation + scale,1,3,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,3,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,3,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,3,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,3,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,3,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,4,XY,Multinomial logistic,88.7709991158267,99.73474801061008,10.963748894783379,0.1,0.8,1.25,0.0
+Translation + scale,1,4,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,4,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,4,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,4,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,4,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,4,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,5,XY,Multinomial logistic,90.27409372236959,99.73474801061008,9.460654288240491,0.1,0.8,1.25,0.0
+Translation + scale,1,5,Translated,Multinomial logistic,99.73474801061008,99.82316534040672,0.0884173297966413,0.1,0.8,1.25,0.0
+Translation + scale,1,5,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,5,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,5,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,5,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,5,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,6,XY,Multinomial logistic,88.3289124668435,99.73474801061008,11.405835543766571,0.1,0.8,1.25,0.0
+Translation + scale,1,6,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,6,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,6,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,6,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,6,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,6,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,7,XY,Multinomial logistic,88.94783377541998,99.73474801061008,10.786914235190096,0.1,0.8,1.25,0.0
+Translation + scale,1,7,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,7,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,7,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,7,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,7,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,7,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,8,XY,Multinomial logistic,88.68258178603006,99.73474801061008,11.05216622458002,0.1,0.8,1.25,0.0
+Translation + scale,1,8,Translated,Multinomial logistic,99.73474801061008,99.82316534040672,0.0884173297966413,0.1,0.8,1.25,0.0
+Translation + scale,1,8,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,8,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,8,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,8,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,8,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,9,XY,Multinomial logistic,90.0972590627763,99.73474801061008,9.637488947833774,0.1,0.8,1.25,0.0
+Translation + scale,1,9,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,9,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,9,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,9,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,9,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.1,0.8,1.25,0.0
+Translation + scale,1,9,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.0
+Translation + scale,2,0,XY,Multinomial logistic,59.77011494252874,99.73474801061008,39.96463306808133,0.25,0.6,1.6,0.0
+Translation + scale,2,0,Translated,Multinomial logistic,99.73474801061008,99.82316534040672,0.0884173297966413,0.25,0.6,1.6,0.0
+Translation + scale,2,0,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,0,Distance,Multinomial logistic,99.55791335101681,99.82316534040672,0.2652519893899097,0.25,0.6,1.6,0.0
+Translation + scale,2,0,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,0,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,0,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,1,XY,Multinomial logistic,58.797524314765695,99.73474801061008,40.93722369584438,0.25,0.6,1.6,0.0
+Translation + scale,2,1,Translated,Multinomial logistic,99.55791335101681,99.82316534040672,0.2652519893899097,0.25,0.6,1.6,0.0
+Translation + scale,2,1,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,1,Distance,Multinomial logistic,99.64633068081345,99.82316534040672,0.17683465959326838,0.25,0.6,1.6,0.0
+Translation + scale,2,1,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,1,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,1,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,2,XY,Multinomial logistic,57.9133510167993,99.73474801061008,41.82139699381078,0.25,0.6,1.6,0.0
+Translation + scale,2,2,Translated,Multinomial logistic,99.64633068081345,99.82316534040672,0.17683465959326838,0.25,0.6,1.6,0.0
+Translation + scale,2,2,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,2,Distance,Multinomial logistic,99.73474801061008,99.82316534040672,0.0884173297966413,0.25,0.6,1.6,0.0
+Translation + scale,2,2,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,2,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,2,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,3,XY,Multinomial logistic,57.55968169761273,99.73474801061008,42.175066312997345,0.25,0.6,1.6,0.0
+Translation + scale,2,3,Translated,Multinomial logistic,99.64633068081345,99.82316534040672,0.17683465959326838,0.25,0.6,1.6,0.0
+Translation + scale,2,3,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,3,Distance,Multinomial logistic,99.46949602122017,99.82316534040672,0.353669319186551,0.25,0.6,1.6,0.0
+Translation + scale,2,3,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,3,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,3,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,4,XY,Multinomial logistic,56.58709106984969,99.73474801061008,43.147656940760385,0.25,0.6,1.6,0.0
+Translation + scale,2,4,Translated,Multinomial logistic,99.64633068081345,99.82316534040672,0.17683465959326838,0.25,0.6,1.6,0.0
+Translation + scale,2,4,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,4,Distance,Multinomial logistic,99.46949602122017,99.82316534040672,0.353669319186551,0.25,0.6,1.6,0.0
+Translation + scale,2,4,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,4,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,4,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,5,XY,Multinomial logistic,57.736516357206014,99.73474801061008,41.99823165340406,0.25,0.6,1.6,0.0
+Translation + scale,2,5,Translated,Multinomial logistic,99.73474801061008,99.82316534040672,0.0884173297966413,0.25,0.6,1.6,0.0
+Translation + scale,2,5,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,5,Distance,Multinomial logistic,99.73474801061008,99.82316534040672,0.0884173297966413,0.25,0.6,1.6,0.0
+Translation + scale,2,5,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,5,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,5,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,6,XY,Multinomial logistic,60.123784261715294,99.73474801061008,39.61096374889478,0.25,0.6,1.6,0.0
+Translation + scale,2,6,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,6,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,6,Distance,Multinomial logistic,99.73474801061008,99.82316534040672,0.0884173297966413,0.25,0.6,1.6,0.0
+Translation + scale,2,6,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,6,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,6,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,7,XY,Multinomial logistic,57.824933687002655,99.73474801061008,41.90981432360742,0.25,0.6,1.6,0.0
+Translation + scale,2,7,Translated,Multinomial logistic,99.55791335101681,99.82316534040672,0.2652519893899097,0.25,0.6,1.6,0.0
+Translation + scale,2,7,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,7,Distance,Multinomial logistic,99.55791335101681,99.82316534040672,0.2652519893899097,0.25,0.6,1.6,0.0
+Translation + scale,2,7,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,7,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,7,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,8,XY,Multinomial logistic,57.02917771883289,99.73474801061008,42.705570291777185,0.25,0.6,1.6,0.0
+Translation + scale,2,8,Translated,Multinomial logistic,99.64633068081345,99.82316534040672,0.17683465959326838,0.25,0.6,1.6,0.0
+Translation + scale,2,8,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,8,Distance,Multinomial logistic,99.73474801061008,99.82316534040672,0.0884173297966413,0.25,0.6,1.6,0.0
+Translation + scale,2,8,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,8,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,8,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,9,XY,Multinomial logistic,57.38284703801945,99.73474801061008,42.35190097259063,0.25,0.6,1.6,0.0
+Translation + scale,2,9,Translated,Multinomial logistic,99.55791335101681,99.82316534040672,0.2652519893899097,0.25,0.6,1.6,0.0
+Translation + scale,2,9,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,9,Distance,Multinomial logistic,99.64633068081345,99.82316534040672,0.17683465959326838,0.25,0.6,1.6,0.0
+Translation + scale,2,9,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,9,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.25,0.6,1.6,0.0
+Translation + scale,2,9,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.0
+Translation + scale,3,0,XY,Multinomial logistic,39.08045977011494,99.73474801061008,60.654288240495134,0.45,0.4,2.0,0.0
+Translation + scale,3,0,Translated,Multinomial logistic,97.25906277630415,99.82316534040672,2.564102564102569,0.45,0.4,2.0,0.0
+Translation + scale,3,0,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,0,Distance,Multinomial logistic,96.37488947833775,99.82316534040672,3.448275862068968,0.45,0.4,2.0,0.0
+Translation + scale,3,0,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,0,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,0,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,1,XY,Multinomial logistic,39.345711759504866,99.73474801061008,60.38903625110521,0.45,0.4,2.0,0.0
+Translation + scale,3,1,Translated,Multinomial logistic,97.52431476569407,99.82316534040672,2.2988505747126453,0.45,0.4,2.0,0.0
+Translation + scale,3,1,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,1,Distance,Multinomial logistic,96.99381078691424,99.82316534040672,2.829354553492479,0.45,0.4,2.0,0.0
+Translation + scale,3,1,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,1,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,1,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,2,XY,Multinomial logistic,37.48894783377542,99.73474801061008,62.245800176834656,0.45,0.4,2.0,0.0
+Translation + scale,3,2,Translated,Multinomial logistic,97.789566755084,99.82316534040672,2.0335985853227214,0.45,0.4,2.0,0.0
+Translation + scale,3,2,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,2,Distance,Multinomial logistic,96.72855879752431,99.82316534040672,3.0946065428824028,0.45,0.4,2.0,0.0
+Translation + scale,3,2,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,2,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,2,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,3,XY,Multinomial logistic,36.7816091954023,99.73474801061008,62.95313881520778,0.45,0.4,2.0,0.0
+Translation + scale,3,3,Translated,Multinomial logistic,98.14323607427056,99.82316534040672,1.6799292661361562,0.45,0.4,2.0,0.0
+Translation + scale,3,3,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,3,Distance,Multinomial logistic,97.61273209549071,99.82316534040672,2.210433244916004,0.45,0.4,2.0,0.0
+Translation + scale,3,3,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,3,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,3,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,4,XY,Multinomial logistic,38.9920424403183,99.73474801061008,60.742705570291776,0.45,0.4,2.0,0.0
+Translation + scale,3,4,Translated,Multinomial logistic,97.96640141467728,99.82316534040672,1.8567639257294388,0.45,0.4,2.0,0.0
+Translation + scale,3,4,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,4,Distance,Multinomial logistic,97.17064544650752,99.82316534040672,2.6525198938991963,0.45,0.4,2.0,0.0
+Translation + scale,3,4,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,4,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,4,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,5,XY,Multinomial logistic,36.162687886825815,99.73474801061008,63.57206012378426,0.45,0.4,2.0,0.0
+Translation + scale,3,5,Translated,Multinomial logistic,97.96640141467728,99.82316534040672,1.8567639257294388,0.45,0.4,2.0,0.0
+Translation + scale,3,5,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,5,Distance,Multinomial logistic,96.9053934571176,99.82316534040672,2.91777188328912,0.45,0.4,2.0,0.0
+Translation + scale,3,5,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,5,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,5,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,6,XY,Multinomial logistic,36.7816091954023,99.73474801061008,62.95313881520778,0.45,0.4,2.0,0.0
+Translation + scale,3,6,Translated,Multinomial logistic,97.70114942528735,99.82316534040672,2.1220159151193627,0.45,0.4,2.0,0.0
+Translation + scale,3,6,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,6,Distance,Multinomial logistic,97.08222811671088,99.82316534040672,2.7409372236958376,0.45,0.4,2.0,0.0
+Translation + scale,3,6,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,6,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,6,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,7,XY,Multinomial logistic,38.196286472148536,99.73474801061008,61.53846153846154,0.45,0.4,2.0,0.0
+Translation + scale,3,7,Translated,Multinomial logistic,97.34748010610079,99.82316534040672,2.475685234305928,0.45,0.4,2.0,0.0
+Translation + scale,3,7,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,7,Distance,Multinomial logistic,96.19805481874447,99.82316534040672,3.6251105216622506,0.45,0.4,2.0,0.0
+Translation + scale,3,7,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,7,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,7,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,8,XY,Multinomial logistic,38.196286472148536,99.73474801061008,61.53846153846154,0.45,0.4,2.0,0.0
+Translation + scale,3,8,Translated,Multinomial logistic,96.9053934571176,99.82316534040672,2.91777188328912,0.45,0.4,2.0,0.0
+Translation + scale,3,8,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,8,Distance,Multinomial logistic,96.37488947833775,99.82316534040672,3.448275862068968,0.45,0.4,2.0,0.0
+Translation + scale,3,8,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,8,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,8,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,9,XY,Multinomial logistic,39.61096374889478,99.73474801061008,60.123784261715294,0.45,0.4,2.0,0.0
+Translation + scale,3,9,Translated,Multinomial logistic,97.52431476569407,99.82316534040672,2.2988505747126453,0.45,0.4,2.0,0.0
+Translation + scale,3,9,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,9,Distance,Multinomial logistic,97.08222811671088,99.82316534040672,2.7409372236958376,0.45,0.4,2.0,0.0
+Translation + scale,3,9,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,9,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.45,0.4,2.0,0.0
+Translation + scale,3,9,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.0
+Translation + scale,4,0,XY,Multinomial logistic,27.055702917771885,99.73474801061008,72.6790450928382,0.7,0.3,2.5,0.0
+Translation + scale,4,0,Translated,Multinomial logistic,96.10963748894783,99.82316534040672,3.713527851458892,0.7,0.3,2.5,0.0
+Translation + scale,4,0,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,0,Distance,Multinomial logistic,95.04862953138814,99.82316534040672,4.774535809018573,0.7,0.3,2.5,0.0
+Translation + scale,4,0,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,0,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,0,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,1,XY,Multinomial logistic,26.8788682581786,99.73474801061008,72.85587975243148,0.7,0.3,2.5,0.0
+Translation + scale,4,1,Translated,Multinomial logistic,96.28647214854111,99.82316534040672,3.5366931918656093,0.7,0.3,2.5,0.0
+Translation + scale,4,1,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,1,Distance,Multinomial logistic,96.10963748894783,99.82316534040672,3.713527851458892,0.7,0.3,2.5,0.0
+Translation + scale,4,1,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,1,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,1,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,2,XY,Multinomial logistic,26.171529619805483,99.73474801061008,73.5632183908046,0.7,0.3,2.5,0.0
+Translation + scale,4,2,Translated,Multinomial logistic,96.81697612732096,99.82316534040672,3.0061892130857615,0.7,0.3,2.5,0.0
+Translation + scale,4,2,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,2,Distance,Multinomial logistic,96.64014146772767,99.82316534040672,3.183023872679044,0.7,0.3,2.5,0.0
+Translation + scale,4,2,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,2,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,2,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,3,XY,Multinomial logistic,28.647214854111407,99.73474801061008,71.08753315649867,0.7,0.3,2.5,0.0
+Translation + scale,4,3,Translated,Multinomial logistic,94.78337754199823,99.82316534040672,5.039787798408483,0.7,0.3,2.5,0.0
+Translation + scale,4,3,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,3,Distance,Multinomial logistic,94.07603890362512,99.82316534040672,5.747126436781599,0.7,0.3,2.5,0.0
+Translation + scale,4,3,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,3,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,3,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,4,XY,Multinomial logistic,26.8788682581786,99.73474801061008,72.85587975243148,0.7,0.3,2.5,0.0
+Translation + scale,4,4,Translated,Multinomial logistic,96.46330680813439,99.82316534040672,3.3598585322723267,0.7,0.3,2.5,0.0
+Translation + scale,4,4,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,4,Distance,Multinomial logistic,95.57913351016799,99.82316534040672,4.244031830238725,0.7,0.3,2.5,0.0
+Translation + scale,4,4,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,4,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,4,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,5,XY,Multinomial logistic,28.293545534924846,99.73474801061008,71.44120247568523,0.7,0.3,2.5,0.0
+Translation + scale,4,5,Translated,Multinomial logistic,95.57913351016799,99.82316534040672,4.244031830238725,0.7,0.3,2.5,0.0
+Translation + scale,4,5,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,5,Distance,Multinomial logistic,95.22546419098144,99.82316534040672,4.597701149425276,0.7,0.3,2.5,0.0
+Translation + scale,4,5,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,5,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,5,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,6,XY,Multinomial logistic,29.79664014146773,99.73474801061008,69.93810786914234,0.7,0.3,2.5,0.0
+Translation + scale,4,6,Translated,Multinomial logistic,96.55172413793103,99.82316534040672,3.2714412024756854,0.7,0.3,2.5,0.0
+Translation + scale,4,6,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,6,Distance,Multinomial logistic,95.57913351016799,99.82316534040672,4.244031830238725,0.7,0.3,2.5,0.0
+Translation + scale,4,6,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,6,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,6,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,7,XY,Multinomial logistic,28.293545534924846,99.73474801061008,71.44120247568523,0.7,0.3,2.5,0.0
+Translation + scale,4,7,Translated,Multinomial logistic,95.40229885057471,99.82316534040672,4.420866489832008,0.7,0.3,2.5,0.0
+Translation + scale,4,7,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,7,Distance,Multinomial logistic,94.9602122015915,99.82316534040672,4.8629531388152145,0.7,0.3,2.5,0.0
+Translation + scale,4,7,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,7,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,7,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,8,XY,Multinomial logistic,27.23253757736516,99.73474801061008,72.50221043324491,0.7,0.3,2.5,0.0
+Translation + scale,4,8,Translated,Multinomial logistic,95.66755083996463,99.82316534040672,4.155614500442084,0.7,0.3,2.5,0.0
+Translation + scale,4,8,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,8,Distance,Multinomial logistic,94.78337754199823,99.82316534040672,5.039787798408483,0.7,0.3,2.5,0.0
+Translation + scale,4,8,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,8,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,8,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,9,XY,Multinomial logistic,29.44297082228117,99.73474801061008,70.29177718832891,0.7,0.3,2.5,0.0
+Translation + scale,4,9,Translated,Multinomial logistic,95.75596816976127,99.82316534040672,4.067197170645443,0.7,0.3,2.5,0.0
+Translation + scale,4,9,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,9,Distance,Multinomial logistic,95.84438549955792,99.82316534040672,3.9787798408488015,0.7,0.3,2.5,0.0
+Translation + scale,4,9,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,9,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.7,0.3,2.5,0.0
+Translation + scale,4,9,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.7,0.3,2.5,0.0
+Translation + scale + noise,0,0,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,0,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,0,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,0,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,0,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,0,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,0,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,1,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,1,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,1,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,1,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,1,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,1,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,1,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,2,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,2,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,2,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,2,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,2,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,2,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,2,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,3,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,3,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,3,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,3,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,3,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,3,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,3,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,4,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,4,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,4,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,4,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,4,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,4,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,4,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,5,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,5,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,5,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,5,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,5,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,5,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,5,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,6,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,6,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,6,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,6,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,6,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,6,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,6,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,7,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,7,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,7,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,7,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,7,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,7,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,7,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,8,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,8,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,8,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,8,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,8,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,8,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,8,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,9,XY,Multinomial logistic,99.73474801061008,99.73474801061008,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,9,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,9,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,9,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,9,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,9,Angles,Multinomial logistic,98.85057471264368,98.85057471264368,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,0,9,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.0,1.0,1.0,0.0
+Translation + scale + noise,1,0,XY,Multinomial logistic,89.65517241379311,99.73474801061008,10.079575596816966,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,0,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,0,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,0,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,0,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,0,Angles,Multinomial logistic,97.96640141467728,98.85057471264368,0.8841732979663988,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,0,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,1,XY,Multinomial logistic,90.98143236074272,99.73474801061008,8.75331564986736,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,1,Translated,Multinomial logistic,99.73474801061008,99.82316534040672,0.0884173297966413,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,1,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,1,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,1,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,1,Angles,Multinomial logistic,97.87798408488064,98.85057471264368,0.9725906277630401,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,1,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,2,XY,Multinomial logistic,90.27409372236959,99.73474801061008,9.460654288240491,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,2,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,2,Scaled,Multinomial logistic,100.0,99.91158267020336,-0.0884173297966413,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,2,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,2,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,2,Angles,Multinomial logistic,97.96640141467728,98.85057471264368,0.8841732979663988,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,2,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,3,XY,Multinomial logistic,90.45092838196287,99.73474801061008,9.283819628647208,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,3,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,3,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,3,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,3,Norm. distance,Multinomial logistic,99.91158267020336,100.0,0.0884173297966413,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,3,Angles,Multinomial logistic,97.43589743589743,98.85057471264368,1.4146772767462465,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,3,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,4,XY,Multinomial logistic,90.18567639257294,99.73474801061008,9.549071618037132,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,4,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,4,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,4,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,4,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,4,Angles,Multinomial logistic,98.14323607427056,98.85057471264368,0.7073386383731162,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,4,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,5,XY,Multinomial logistic,90.00884173297966,99.73474801061008,9.725906277630415,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,5,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,5,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,5,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,5,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,5,Angles,Multinomial logistic,98.14323607427056,98.85057471264368,0.7073386383731162,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,5,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,6,XY,Multinomial logistic,90.71618037135278,99.73474801061008,9.018567639257299,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,6,Translated,Multinomial logistic,99.73474801061008,99.82316534040672,0.0884173297966413,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,6,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,6,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,6,Norm. distance,Multinomial logistic,99.91158267020336,100.0,0.0884173297966413,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,6,Angles,Multinomial logistic,97.789566755084,98.85057471264368,1.0610079575596814,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,6,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,7,XY,Multinomial logistic,88.50574712643679,99.73474801061008,11.229000884173288,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,7,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,7,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,7,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,7,Norm. distance,Multinomial logistic,99.91158267020336,100.0,0.0884173297966413,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,7,Angles,Multinomial logistic,97.43589743589743,98.85057471264368,1.4146772767462465,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,7,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,8,XY,Multinomial logistic,88.94783377541998,99.73474801061008,10.786914235190096,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,8,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,8,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,8,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,8,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,8,Angles,Multinomial logistic,97.52431476569407,98.85057471264368,1.3262599469496053,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,8,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,9,XY,Multinomial logistic,89.65517241379311,99.73474801061008,10.079575596816966,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,9,Translated,Multinomial logistic,99.73474801061008,99.82316534040672,0.0884173297966413,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,9,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,9,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,9,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,9,Angles,Multinomial logistic,97.96640141467728,98.85057471264368,0.8841732979663988,0.1,0.8,1.25,0.001
+Translation + scale + noise,1,9,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.1,0.8,1.25,0.001
+Translation + scale + noise,2,0,XY,Multinomial logistic,59.59328028293546,99.73474801061008,40.141467727674616,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,0,Translated,Multinomial logistic,99.11582670203359,99.82316534040672,0.7073386383731304,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,0,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,0,Distance,Multinomial logistic,99.20424403183023,99.82316534040672,0.6189213085764891,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,0,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,0,Angles,Multinomial logistic,92.66136162687887,98.85057471264368,6.1892130857648056,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,0,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,1,XY,Multinomial logistic,58.53227232537578,99.73474801061008,41.2024756852343,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,1,Translated,Multinomial logistic,99.55791335101681,99.82316534040672,0.2652519893899097,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,1,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,1,Distance,Multinomial logistic,99.29266136162688,99.82316534040672,0.5305039787798336,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,1,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,1,Angles,Multinomial logistic,92.74977895667551,98.85057471264368,6.100795755968164,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,1,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,2,XY,Multinomial logistic,58.267020335985855,99.73474801061008,41.46772767462422,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,2,Translated,Multinomial logistic,99.64633068081345,99.82316534040672,0.17683465959326838,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,2,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,2,Distance,Multinomial logistic,99.73474801061008,99.82316534040672,0.0884173297966413,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,2,Norm. distance,Multinomial logistic,99.91158267020336,100.0,0.0884173297966413,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,2,Angles,Multinomial logistic,94.07603890362512,98.85057471264368,4.774535809018559,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,2,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,3,XY,Multinomial logistic,57.294429708222815,99.73474801061008,42.44031830238726,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,3,Translated,Multinomial logistic,99.64633068081345,99.82316534040672,0.17683465959326838,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,3,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,3,Distance,Multinomial logistic,99.46949602122017,99.82316534040672,0.353669319186551,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,3,Norm. distance,Multinomial logistic,99.91158267020336,100.0,0.0884173297966413,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,3,Angles,Multinomial logistic,93.36870026525199,98.85057471264368,5.481874447391689,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,3,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,4,XY,Multinomial logistic,59.59328028293546,99.73474801061008,40.141467727674616,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,4,Translated,Multinomial logistic,99.64633068081345,99.82316534040672,0.17683465959326838,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,4,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,4,Distance,Multinomial logistic,99.64633068081345,99.82316534040672,0.17683465959326838,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,4,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,4,Angles,Multinomial logistic,93.54553492484527,98.85057471264368,5.305039787798407,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,4,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,5,XY,Multinomial logistic,58.53227232537578,99.73474801061008,41.2024756852343,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,5,Translated,Multinomial logistic,99.64633068081345,99.82316534040672,0.17683465959326838,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,5,Scaled,Multinomial logistic,100.0,99.91158267020336,-0.0884173297966413,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,5,Distance,Multinomial logistic,99.20424403183023,99.82316534040672,0.6189213085764891,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,5,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,5,Angles,Multinomial logistic,94.25287356321839,98.85057471264368,4.597701149425291,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,5,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,6,XY,Multinomial logistic,58.53227232537578,99.73474801061008,41.2024756852343,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,6,Translated,Multinomial logistic,99.73474801061008,99.82316534040672,0.0884173297966413,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,6,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,6,Distance,Multinomial logistic,99.73474801061008,99.82316534040672,0.0884173297966413,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,6,Norm. distance,Multinomial logistic,99.91158267020336,100.0,0.0884173297966413,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,6,Angles,Multinomial logistic,93.63395225464191,98.85057471264368,5.2166224580017655,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,6,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,7,XY,Multinomial logistic,56.94076038903625,99.73474801061008,42.79398762157383,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,7,Translated,Multinomial logistic,99.64633068081345,99.82316534040672,0.17683465959326838,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,7,Scaled,Multinomial logistic,100.0,99.91158267020336,-0.0884173297966413,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,7,Distance,Multinomial logistic,99.64633068081345,99.82316534040672,0.17683465959326838,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,7,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,7,Angles,Multinomial logistic,94.34129089301503,98.85057471264368,4.509283819628649,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,7,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,8,XY,Multinomial logistic,59.50486295313881,99.73474801061008,40.229885057471265,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,8,Translated,Multinomial logistic,99.73474801061008,99.82316534040672,0.0884173297966413,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,8,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,8,Distance,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,8,Norm. distance,Multinomial logistic,99.91158267020336,100.0,0.0884173297966413,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,8,Angles,Multinomial logistic,93.45711759504863,98.85057471264368,5.393457117595048,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,8,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,9,XY,Multinomial logistic,56.85234305923961,99.73474801061008,42.88240495137047,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,9,Translated,Multinomial logistic,99.82316534040672,99.82316534040672,0.0,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,9,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,9,Distance,Multinomial logistic,99.73474801061008,99.82316534040672,0.0884173297966413,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,9,Norm. distance,Multinomial logistic,99.91158267020336,100.0,0.0884173297966413,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,9,Angles,Multinomial logistic,93.1918656056587,98.85057471264368,5.658709106984972,0.25,0.6,1.6,0.002
+Translation + scale + noise,2,9,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.25,0.6,1.6,0.002
+Translation + scale + noise,3,0,XY,Multinomial logistic,37.2236958443855,99.73474801061008,62.51105216622457,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,0,Translated,Multinomial logistic,97.43589743589743,99.82316534040672,2.3872679045092866,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,0,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,0,Distance,Multinomial logistic,97.17064544650752,99.82316534040672,2.6525198938991963,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,0,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,0,Angles,Multinomial logistic,85.41114058355438,98.85057471264368,13.439434129089292,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,0,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,1,XY,Multinomial logistic,36.42793987621574,99.73474801061008,63.30680813439434,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,1,Translated,Multinomial logistic,97.25906277630415,99.82316534040672,2.564102564102569,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,1,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,1,Distance,Multinomial logistic,96.28647214854111,99.82316534040672,3.5366931918656093,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,1,Norm. distance,Multinomial logistic,99.91158267020336,100.0,0.0884173297966413,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,1,Angles,Multinomial logistic,85.76480990274094,98.85057471264368,13.085764809902741,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,1,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,2,XY,Multinomial logistic,35.0132625994695,99.73474801061008,64.72148541114058,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,2,Translated,Multinomial logistic,97.52431476569407,99.82316534040672,2.2988505747126453,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,2,Scaled,Multinomial logistic,99.82316534040672,99.91158267020336,0.0884173297966413,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,2,Distance,Multinomial logistic,97.25906277630415,99.82316534040672,2.564102564102569,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,2,Norm. distance,Multinomial logistic,99.91158267020336,100.0,0.0884173297966413,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,2,Angles,Multinomial logistic,86.91423519009726,98.85057471264368,11.936339522546419,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,2,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,3,XY,Multinomial logistic,35.36693191865606,99.73474801061008,64.36781609195401,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,3,Translated,Multinomial logistic,95.93280282935456,99.82316534040672,3.8903625110521602,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,3,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,3,Distance,Multinomial logistic,95.57913351016799,99.82316534040672,4.244031830238725,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,3,Norm. distance,Multinomial logistic,99.91158267020336,100.0,0.0884173297966413,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,3,Angles,Multinomial logistic,84.96905393457118,98.85057471264368,13.881520778072499,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,3,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,4,XY,Multinomial logistic,38.90362511052166,99.73474801061008,60.83112290008842,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,4,Translated,Multinomial logistic,97.61273209549071,99.82316534040672,2.210433244916004,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,4,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,4,Distance,Multinomial logistic,96.9053934571176,99.82316534040672,2.91777188328912,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,4,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,4,Angles,Multinomial logistic,86.1184792219275,98.85057471264368,12.732095490716176,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,4,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,5,XY,Multinomial logistic,37.31211317418214,99.73474801061008,62.42263483642794,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,5,Translated,Multinomial logistic,97.25906277630415,99.82316534040672,2.564102564102569,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,5,Scaled,Multinomial logistic,100.0,99.91158267020336,-0.0884173297966413,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,5,Distance,Multinomial logistic,96.99381078691424,99.82316534040672,2.829354553492479,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,5,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,5,Angles,Multinomial logistic,86.20689655172413,98.85057471264368,12.64367816091955,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,5,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,6,XY,Multinomial logistic,35.54376657824933,99.73474801061008,64.19098143236074,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,6,Translated,Multinomial logistic,96.64014146772767,99.82316534040672,3.183023872679044,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,6,Scaled,Multinomial logistic,99.82316534040672,99.91158267020336,0.0884173297966413,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,6,Distance,Multinomial logistic,96.28647214854111,99.82316534040672,3.5366931918656093,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,6,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,6,Angles,Multinomial logistic,85.2343059239611,98.85057471264368,13.616268788682575,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,6,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,7,XY,Multinomial logistic,38.1078691423519,99.73474801061008,61.626878868258174,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,7,Translated,Multinomial logistic,97.08222811671088,99.82316534040672,2.7409372236958376,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,7,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,7,Distance,Multinomial logistic,96.55172413793103,99.82316534040672,3.2714412024756854,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,7,Norm. distance,Multinomial logistic,99.82316534040672,100.0,0.1768346595932826,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,7,Angles,Multinomial logistic,85.32272325375774,98.85057471264368,13.527851458885934,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,7,Hybrid,Multinomial logistic,99.91158267020336,100.0,0.0884173297966413,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,8,XY,Multinomial logistic,37.754199823165344,99.73474801061008,61.98054818744473,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,8,Translated,Multinomial logistic,97.43589743589743,99.82316534040672,2.3872679045092866,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,8,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,8,Distance,Multinomial logistic,96.99381078691424,99.82316534040672,2.829354553492479,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,8,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,8,Angles,Multinomial logistic,86.64898320070733,98.85057471264368,12.201591511936343,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,8,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,9,XY,Multinomial logistic,34.217506631299734,99.73474801061008,65.51724137931035,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,9,Translated,Multinomial logistic,97.08222811671088,99.82316534040672,2.7409372236958376,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,9,Scaled,Multinomial logistic,99.73474801061008,99.91158267020336,0.1768346595932826,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,9,Distance,Multinomial logistic,96.46330680813439,99.82316534040672,3.3598585322723267,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,9,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,9,Angles,Multinomial logistic,86.03006189213086,98.85057471264368,12.820512820512818,0.45,0.4,2.0,0.003
+Translation + scale + noise,3,9,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.45,0.4,2.0,0.003
+Translation + scale + noise,4,0,XY,Multinomial logistic,27.586206896551722,99.73474801061008,72.14854111405836,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,0,Translated,Multinomial logistic,95.40229885057471,99.82316534040672,4.420866489832008,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,0,Scaled,Multinomial logistic,99.64633068081345,99.91158267020336,0.2652519893899097,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,0,Distance,Multinomial logistic,94.6949602122016,99.82316534040672,5.128205128205124,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,0,Norm. distance,Multinomial logistic,99.55791335101681,100.0,0.4420866489831923,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,0,Angles,Multinomial logistic,80.37135278514589,98.85057471264368,18.47922192749779,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,0,Hybrid,Multinomial logistic,99.82316534040672,100.0,0.1768346595932826,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,1,XY,Multinomial logistic,29.26613616268789,99.73474801061008,70.46861184792219,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,1,Translated,Multinomial logistic,95.40229885057471,99.82316534040672,4.420866489832008,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,1,Scaled,Multinomial logistic,99.55791335101681,99.91158267020336,0.353669319186551,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,1,Distance,Multinomial logistic,94.6949602122016,99.82316534040672,5.128205128205124,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,1,Norm. distance,Multinomial logistic,99.91158267020336,100.0,0.0884173297966413,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,1,Angles,Multinomial logistic,79.3103448275862,98.85057471264368,19.54022988505747,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,1,Hybrid,Multinomial logistic,99.91158267020336,100.0,0.0884173297966413,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,2,XY,Multinomial logistic,29.177718832891248,99.73474801061008,70.55702917771883,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,2,Translated,Multinomial logistic,96.19805481874447,99.82316534040672,3.6251105216622506,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,2,Scaled,Multinomial logistic,99.46949602122017,99.91158267020336,0.4420866489831923,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,2,Distance,Multinomial logistic,95.75596816976127,99.82316534040672,4.067197170645443,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,2,Norm. distance,Multinomial logistic,99.91158267020336,100.0,0.0884173297966413,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,2,Angles,Multinomial logistic,82.31653404067197,98.85057471264368,16.53404067197171,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,2,Hybrid,Multinomial logistic,99.82316534040672,100.0,0.1768346595932826,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,3,XY,Multinomial logistic,27.939876215738284,99.73474801061008,71.7948717948718,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,3,Translated,Multinomial logistic,95.93280282935456,99.82316534040672,3.8903625110521602,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,3,Scaled,Multinomial logistic,99.91158267020336,99.91158267020336,0.0,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,3,Distance,Multinomial logistic,94.87179487179486,99.82316534040672,4.951370468611856,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,3,Norm. distance,Multinomial logistic,99.82316534040672,100.0,0.1768346595932826,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,3,Angles,Multinomial logistic,81.07869142351902,98.85057471264368,17.77188328912466,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,3,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,4,XY,Multinomial logistic,25.552608311229,99.73474801061008,74.18213969938108,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,4,Translated,Multinomial logistic,94.9602122015915,99.82316534040672,4.8629531388152145,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,4,Scaled,Multinomial logistic,99.64633068081345,99.91158267020336,0.2652519893899097,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,4,Distance,Multinomial logistic,94.42970822281167,99.82316534040672,5.393457117595048,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,4,Norm. distance,Multinomial logistic,99.82316534040672,100.0,0.1768346595932826,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,4,Angles,Multinomial logistic,80.10610079575596,98.85057471264368,18.744473916887713,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,4,Hybrid,Multinomial logistic,99.82316534040672,100.0,0.1768346595932826,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,5,XY,Multinomial logistic,27.851458885941643,99.73474801061008,71.88328912466844,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,5,Translated,Multinomial logistic,95.1370468611848,99.82316534040672,4.686118479221918,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,5,Scaled,Multinomial logistic,99.38107869142353,99.91158267020336,0.5305039787798336,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,5,Distance,Multinomial logistic,93.8107869142352,99.82316534040672,6.012378426171523,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,5,Norm. distance,Multinomial logistic,99.73474801061008,100.0,0.2652519893899239,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,5,Angles,Multinomial logistic,80.54818744473917,98.85057471264368,18.302387267904507,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,5,Hybrid,Multinomial logistic,99.91158267020336,100.0,0.0884173297966413,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,6,XY,Multinomial logistic,29.53138815207781,99.73474801061008,70.20335985853227,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,6,Translated,Multinomial logistic,96.37488947833775,99.82316534040672,3.448275862068968,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,6,Scaled,Multinomial logistic,99.64633068081345,99.91158267020336,0.2652519893899097,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,6,Distance,Multinomial logistic,96.64014146772767,99.82316534040672,3.183023872679044,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,6,Norm. distance,Multinomial logistic,99.46949602122017,100.0,0.5305039787798336,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,6,Angles,Multinomial logistic,80.63660477453581,98.85057471264368,18.213969938107866,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,6,Hybrid,Multinomial logistic,99.64633068081345,100.0,0.353669319186551,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,7,XY,Multinomial logistic,27.23253757736516,99.73474801061008,72.50221043324491,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,7,Translated,Multinomial logistic,96.19805481874447,99.82316534040672,3.6251105216622506,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,7,Scaled,Multinomial logistic,99.55791335101681,99.91158267020336,0.353669319186551,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,7,Distance,Multinomial logistic,95.57913351016799,99.82316534040672,4.244031830238725,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,7,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,7,Angles,Multinomial logistic,81.52077807250221,98.85057471264368,17.329796640141467,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,7,Hybrid,Multinomial logistic,99.91158267020336,100.0,0.0884173297966413,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,8,XY,Multinomial logistic,28.293545534924846,99.73474801061008,71.44120247568523,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,8,Translated,Multinomial logistic,95.75596816976127,99.82316534040672,4.067197170645443,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,8,Scaled,Multinomial logistic,99.82316534040672,99.91158267020336,0.0884173297966413,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,8,Distance,Multinomial logistic,94.87179487179486,99.82316534040672,4.951370468611856,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,8,Norm. distance,Multinomial logistic,99.46949602122017,100.0,0.5305039787798336,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,8,Angles,Multinomial logistic,82.22811671087533,98.85057471264368,16.62245800176835,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,8,Hybrid,Multinomial logistic,99.82316534040672,100.0,0.1768346595932826,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,9,XY,Multinomial logistic,29.089301503094607,99.73474801061008,70.64544650751547,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,9,Translated,Multinomial logistic,95.40229885057471,99.82316534040672,4.420866489832008,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,9,Scaled,Multinomial logistic,99.82316534040672,99.91158267020336,0.0884173297966413,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,9,Distance,Multinomial logistic,95.04862953138814,99.82316534040672,4.774535809018573,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,9,Norm. distance,Multinomial logistic,100.0,100.0,0.0,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,9,Angles,Multinomial logistic,80.45977011494253,98.85057471264368,18.39080459770115,0.7,0.3,2.5,0.004
+Translation + scale + noise,4,9,Hybrid,Multinomial logistic,100.0,100.0,0.0,0.7,0.3,2.5,0.004

@@ -1,0 +1,9 @@
+representation,n_observations,n_predictors,n_classes,train_accuracy,test_accuracy,train_error,test_error,cv_best_accuracy,best_n_estimators,best_max_depth,best_max_features,best_min_samples_leaf
+raw_xy,2592,42,26,1.0,1.0,0.0,0.0,0.9985518887142775,300,,sqrt,1
+raw_xyz,2592,63,26,1.0,1.0,0.0,0.0,0.9995180722891567,100,,sqrt,2
+translated_xy,2592,42,26,1.0,1.0,0.0,0.0,0.9995180722891567,100,,sqrt,1
+scaled_xy,2592,42,26,1.0,1.0,0.0,0.0,0.9995180722891567,100,,sqrt,1
+distances_xy,2592,210,26,1.0,1.0,0.0,0.0,0.9990361445783134,100,,sqrt,1
+normalized_distances_xy,2592,210,26,1.0,0.9980732177263969,0.0,0.0019267822736031004,0.9995180722891567,100,,log2,1
+angles_xy,2592,15,26,1.0,0.9980732177263969,0.0,0.0019267822736031004,0.998069961003434,100,,sqrt,2
+hybrid,2592,267,26,1.0,1.0,0.0,0.0,0.9995180722891567,100,,sqrt,1

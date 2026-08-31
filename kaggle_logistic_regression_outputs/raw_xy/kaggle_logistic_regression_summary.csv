@@ -1,0 +1,14 @@
+Metric,Value
+Representation,raw_xy
+Training accuracy,0.9898028552005439
+Training error,0.010197144799456104
+Test accuracy,0.9239130434782609
+Test error,0.07608695652173914
+Cross-validation best accuracy,0.9354041277527962
+Number of training observations,1471
+Number of test observations,368
+Number of predictors,42
+Number of classes,36
+Selected C,100
+Solver,lbfgs
+Maximum iterations,10000

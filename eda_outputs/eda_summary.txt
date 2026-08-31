@@ -1,0 +1,46 @@
+EDA Summary
+====================
+
+Number of observations: 5454
+Number of predictors: 42
+Number of classes: 29
+
+Class balance:
+       count  percentage
+label                   
+0        115        2.11
+1        181        3.32
+10       188        3.45
+11       184        3.37
+12       200        3.67
+13       200        3.67
+14       200        3.67
+15       199        3.65
+16       193        3.54
+17       197        3.61
+18       200        3.67
+19       200        3.67
+2        200        3.67
+20       193        3.54
+21       172        3.15
+22       173        3.17
+23       200        3.67
+24       200        3.67
+25       200        3.67
+26       169        3.10
+27       200        3.67
+28       168        3.08
+3        200        3.67
+4        200        3.67
+5        183        3.36
+6        200        3.67
+7        176        3.23
+8        183        3.36
+9        180        3.30
+
+PCA results:
+PC1 explains 40.18% of the variance.
+PC2 explains 23.99% of the variance.
+PC1 and PC2 together explain 64.17% of the variance.
+Number of PCs needed for 80% variance: 4
+Number of PCs needed for 90% variance: 7

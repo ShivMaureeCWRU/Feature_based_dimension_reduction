@@ -1,0 +1,105 @@
+Multinomial Logistic Regression Results Across Representations
+
+Multinomial Logistic Regression Results
+---------------------------------------
+Representation: raw_xy
+Number of observations: 2592
+Number of predictors: 42
+Number of classes: 26
+Best hyperparameters: {'logistic_regression__C': 10}
+Best cross-validation accuracy: 99.90%
+Training accuracy: 100.00%
+Test accuracy: 100.00%
+Outputs saved in: ../SignAlphaSet_logistic_regression_outputs\raw_xy
+
+
+Multinomial Logistic Regression Results
+---------------------------------------
+Representation: raw_xyz
+Number of observations: 2592
+Number of predictors: 63
+Number of classes: 26
+Best hyperparameters: {'logistic_regression__C': 1}
+Best cross-validation accuracy: 100.00%
+Training accuracy: 100.00%
+Test accuracy: 100.00%
+Outputs saved in: ../SignAlphaSet_logistic_regression_outputs\raw_xyz
+
+
+Multinomial Logistic Regression Results
+---------------------------------------
+Representation: translated_xy
+Number of observations: 2592
+Number of predictors: 42
+Number of classes: 26
+Best hyperparameters: {'logistic_regression__C': 10}
+Best cross-validation accuracy: 99.90%
+Training accuracy: 100.00%
+Test accuracy: 100.00%
+Outputs saved in: ../SignAlphaSet_logistic_regression_outputs\translated_xy
+
+
+Multinomial Logistic Regression Results
+---------------------------------------
+Representation: scaled_xy
+Number of observations: 2592
+Number of predictors: 42
+Number of classes: 26
+Best hyperparameters: {'logistic_regression__C': 10}
+Best cross-validation accuracy: 99.90%
+Training accuracy: 100.00%
+Test accuracy: 100.00%
+Outputs saved in: ../SignAlphaSet_logistic_regression_outputs\scaled_xy
+
+
+Multinomial Logistic Regression Results
+---------------------------------------
+Representation: distances_xy
+Number of observations: 2592
+Number of predictors: 210
+Number of classes: 26
+Best hyperparameters: {'logistic_regression__C': 100}
+Best cross-validation accuracy: 99.95%
+Training accuracy: 100.00%
+Test accuracy: 100.00%
+Outputs saved in: ../SignAlphaSet_logistic_regression_outputs\distances_xy
+
+
+Multinomial Logistic Regression Results
+---------------------------------------
+Representation: normalized_distances_xy
+Number of observations: 2592
+Number of predictors: 210
+Number of classes: 26
+Best hyperparameters: {'logistic_regression__C': 1}
+Best cross-validation accuracy: 99.95%
+Training accuracy: 100.00%
+Test accuracy: 100.00%
+Outputs saved in: ../SignAlphaSet_logistic_regression_outputs\normalized_distances_xy
+
+
+Multinomial Logistic Regression Results
+---------------------------------------
+Representation: angles_xy
+Number of observations: 2592
+Number of predictors: 15
+Number of classes: 26
+Best hyperparameters: {'logistic_regression__C': 10}
+Best cross-validation accuracy: 99.76%
+Training accuracy: 100.00%
+Test accuracy: 99.81%
+Outputs saved in: ../SignAlphaSet_logistic_regression_outputs\angles_xy
+
+
+Multinomial Logistic Regression Results
+---------------------------------------
+Representation: hybrid
+Number of observations: 2592
+Number of predictors: 267
+Number of classes: 26
+Best hyperparameters: {'logistic_regression__C': 10}
+Best cross-validation accuracy: 100.00%
+Training accuracy: 100.00%
+Test accuracy: 100.00%
+Outputs saved in: ../SignAlphaSet_logistic_regression_outputs\hybrid
+

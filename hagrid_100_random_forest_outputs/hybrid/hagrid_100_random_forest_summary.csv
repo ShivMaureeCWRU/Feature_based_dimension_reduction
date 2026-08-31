@@ -1,0 +1,15 @@
+Metric,Value
+Representation,hybrid
+Training accuracy,1.0
+Training error,0.0
+Test accuracy,0.8726708074534162
+Test error,0.1273291925465838
+Cross-validation best accuracy,0.8788349514563105
+Number of training observations,2575
+Number of test observations,644
+Number of predictors,267
+Number of classes,34
+Number of trees,100
+Maximum tree depth,
+Maximum features per split,sqrt
+Minimum samples per leaf,1

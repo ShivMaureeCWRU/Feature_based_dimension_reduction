@@ -1,0 +1,105 @@
+Multinomial Logistic Regression Results Across Representations
+
+Multinomial Logistic Regression Results
+---------------------------------------
+Representation: raw_xy
+Number of observations: 3219
+Number of predictors: 42
+Number of classes: 34
+Best hyperparameters: {'logistic_regression__C': 100}
+Best cross-validation accuracy: 71.88%
+Training accuracy: 79.22%
+Test accuracy: 73.91%
+Outputs saved in: ../hagrid_100_logistic_regression_outputs\raw_xy
+
+
+Multinomial Logistic Regression Results
+---------------------------------------
+Representation: raw_xyz
+Number of observations: 3219
+Number of predictors: 63
+Number of classes: 34
+Best hyperparameters: {'logistic_regression__C': 100}
+Best cross-validation accuracy: 78.95%
+Training accuracy: 88.04%
+Test accuracy: 80.59%
+Outputs saved in: ../hagrid_100_logistic_regression_outputs\raw_xyz
+
+
+Multinomial Logistic Regression Results
+---------------------------------------
+Representation: translated_xy
+Number of observations: 3219
+Number of predictors: 42
+Number of classes: 34
+Best hyperparameters: {'logistic_regression__C': 100}
+Best cross-validation accuracy: 76.82%
+Training accuracy: 85.17%
+Test accuracy: 78.26%
+Outputs saved in: ../hagrid_100_logistic_regression_outputs\translated_xy
+
+
+Multinomial Logistic Regression Results
+---------------------------------------
+Representation: scaled_xy
+Number of observations: 3219
+Number of predictors: 42
+Number of classes: 34
+Best hyperparameters: {'logistic_regression__C': 100}
+Best cross-validation accuracy: 74.83%
+Training accuracy: 84.62%
+Test accuracy: 76.09%
+Outputs saved in: ../hagrid_100_logistic_regression_outputs\scaled_xy
+
+
+Multinomial Logistic Regression Results
+---------------------------------------
+Representation: distances_xy
+Number of observations: 3219
+Number of predictors: 210
+Number of classes: 34
+Best hyperparameters: {'logistic_regression__C': 0.1}
+Best cross-validation accuracy: 86.33%
+Training accuracy: 89.20%
+Test accuracy: 86.34%
+Outputs saved in: ../hagrid_100_logistic_regression_outputs\distances_xy
+
+
+Multinomial Logistic Regression Results
+---------------------------------------
+Representation: normalized_distances_xy
+Number of observations: 3219
+Number of predictors: 210
+Number of classes: 34
+Best hyperparameters: {'logistic_regression__C': 0.1}
+Best cross-validation accuracy: 86.45%
+Training accuracy: 90.29%
+Test accuracy: 86.96%
+Outputs saved in: ../hagrid_100_logistic_regression_outputs\normalized_distances_xy
+
+
+Multinomial Logistic Regression Results
+---------------------------------------
+Representation: angles_xy
+Number of observations: 3219
+Number of predictors: 15
+Number of classes: 34
+Best hyperparameters: {'logistic_regression__C': 1}
+Best cross-validation accuracy: 73.09%
+Training accuracy: 75.77%
+Test accuracy: 73.45%
+Outputs saved in: ../hagrid_100_logistic_regression_outputs\angles_xy
+
+
+Multinomial Logistic Regression Results
+---------------------------------------
+Representation: hybrid
+Number of observations: 3219
+Number of predictors: 267
+Number of classes: 34
+Best hyperparameters: {'logistic_regression__C': 0.1}
+Best cross-validation accuracy: 87.96%
+Training accuracy: 92.93%
+Test accuracy: 89.13%
+Outputs saved in: ../hagrid_100_logistic_regression_outputs\hybrid
+

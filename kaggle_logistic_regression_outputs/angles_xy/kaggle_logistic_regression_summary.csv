@@ -1,0 +1,14 @@
+Metric,Value
+Representation,angles_xy
+Training accuracy,0.9129843643779741
+Training error,0.08701563562202586
+Test accuracy,0.8614130434782609
+Test error,0.13858695652173914
+Cross-validation best accuracy,0.8511334025135477
+Number of training observations,1471
+Number of test observations,368
+Number of predictors,15
+Number of classes,36
+Selected C,10
+Solver,lbfgs
+Maximum iterations,10000

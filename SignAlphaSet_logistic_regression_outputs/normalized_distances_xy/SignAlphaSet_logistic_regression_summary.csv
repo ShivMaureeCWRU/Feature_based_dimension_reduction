@@ -1,0 +1,14 @@
+Metric,Value
+Representation,normalized_distances_xy
+Training accuracy,1.0
+Training error,0.0
+Test accuracy,1.0
+Test error,0.0
+Cross-validation best accuracy,0.9995180722891567
+Number of training observations,2073
+Number of test observations,519
+Number of predictors,210
+Number of classes,26
+Selected C,1
+Solver,lbfgs
+Maximum iterations,10000
